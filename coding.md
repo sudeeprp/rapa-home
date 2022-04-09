@@ -8,4 +8,5 @@ flowchart LR
   S --> G
 ```
 
+By 'specifying', you remove ambiguity.
 The activity of 'coding' achieves 'unambiguous communication'.
