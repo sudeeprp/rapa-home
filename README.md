@@ -1,6 +1,4 @@
-# रaपa
-
-Discover yourself
+# Discover yourself
 
 [Krishna's Gita](krishna-gita.md)
 

@@ -3,3 +3,6 @@
 .github/styles/Microsoft.zip
 .github/styles/write-good.zip
 vale
+_site
+.sass-cache
+.jekyll-cache
