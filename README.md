@@ -1,9 +1,9 @@
-# Discover
+# Discover yourself
 
 [Krishna's Gita](krishna-gita.md)
 
-[Your intent as code](coding.md)
+[Code your intent](coding.md)
 
 [Epic living](epic-living.md)
 
-[Tool driven habits](tools.md)
+[Tool-driven habits](tools.md)
