@@ -16,6 +16,7 @@
 
 ## Gajendra Moksha
 
+[![Gajendra-story](https://img.youtube.com/vi/X7rOZ1SaFoI/0.jpg)](https://www.youtube.com/watch?v=X7rOZ1SaFoI)
 [![Gajendra](https://img.youtube.com/vi/1KqJu-tth_c/0.jpg)](https://www.youtube.com/watch?v=1KqJu-tth_c)
 
 ## Kanakadasa
