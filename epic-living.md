@@ -4,6 +4,13 @@
 
 ## Narasimha surprise
 
+"Lord Narayana is in the pillar" - to make Prahlad's words true, He placed himself in every pillar.
+If I need to break the pillar to see Him, I will :)
+
+`अमृत्युः सर्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः । अजो दुर्मर्षणः शास्ता विश्रुतात्मा सुरारिहा ।।`
+
+As Narasimha, He is steadfast in you. He rules without a beginning or an end; Never ceases to surprise.
+
 [![Narasimha](https://img.youtube.com/vi/PjPWgdPdieo/0.jpg)](https://www.youtube.com/watch?v=PjPWgdPdieo)
 
 ## Trivikrama's stamp
@@ -21,4 +28,6 @@
 
 ## Kanakadasa
 
-[![Kanakadasa](https://img.youtube.com/vi/ItrnnqIhhGI/0.jpg)](https://www.youtube.com/watch?v=ItrnnqIhhGI)
+[![Kanakadasa-sequence](https://img.youtube.com/vi/ItrnnqIhhGI/0.jpg)](https://www.youtube.com/watch?v=ItrnnqIhhGI)
+
+[![Krishna-sees](https://img.youtube.com/vi/Cs57pRloChs/0.jpg)](https://www.youtube.com/watch?v=Cs57pRloChs)
