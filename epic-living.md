@@ -22,7 +22,7 @@ This universe forms a minute piece of Narayana.
 Yet, He asks Bali for His own universe.
 Bali recognises Narayana in the form of the huge Trivikrama,
 loses his ego and offers his own head.
-To the Lord, a devotee's worth equals the entire Universe. Become that devotee.
+To Narayana, the value of a devotee exceeds the entire Universe. Become that devotee.
 
 [![Trivikrama](https://img.youtube.com/vi/6JlNsfA-2pY/0.jpg)](https://www.youtube.com/watch?v=6JlNsfA-2pY)
 
