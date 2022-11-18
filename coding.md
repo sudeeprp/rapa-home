@@ -17,3 +17,16 @@ without specifying a solution - think of it as typing, not coding.
 People would find such 'software solutions' hard to understand and expensive to change.
 
 [What does specification cost?](https://sudeeprp.github.io/default-coding/form-fit-function)
+
+## Guardrails
+
+Practical workflows to use as GitHub actions.
+Catch your issues as you make them!
+
+[Python](https://github.com/clean-code-craft-tcq-4/typewise-alert-py/tree/main/.github/workflows)
+
+[JavaScript](https://github.com/clean-code-craft-tcq-4/typewise-alert-js/tree/main/.github/workflows)
+
+[Flutter](flutter-workflow.yml)
+
+[Blogging Style](https://github.com/sudeeprp/rapa-home/blob/main/.github/workflows/lint.yml)

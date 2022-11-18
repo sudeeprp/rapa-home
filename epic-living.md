@@ -18,13 +18,19 @@ He rules without a beginning or an end. He never ceases to surprise.
 
 ## Trivikrama's stamp
 
-This universe forms a minute piece of Narayana.
+This universe forms a minute part of Narayana.
 Yet, He asks Bali for His own universe.
 Bali recognises Narayana in the form of the huge Trivikrama,
 loses his ego and offers his own head.
 To Narayana, the value of a devotee exceeds the entire Universe. Become that devotee.
 
 [![Trivikrama](https://img.youtube.com/vi/6JlNsfA-2pY/0.jpg)](https://www.youtube.com/watch?v=6JlNsfA-2pY)
+
+## Hanuman flies
+
+Enjoy Hanuman's journey to Lanka, just as Hanuman enjoyed it!
+
+[![Hanuman](https://img.youtube.com/vi/mtkjpxaJOhI/0.jpg)](https://www.youtube.com/watch?v=mtkjpxaJOhI)
 
 ## Krishna's universe
 
