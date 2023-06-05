@@ -6,4 +6,4 @@
 
 [Epic living](epic-living.md)
 
-[Tool-driven habits](tools.md)
+[Contribute](contribute.md)
