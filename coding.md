@@ -2,13 +2,12 @@
 
 > Communicate without ambiguity
 
-The activity of 'coding' achieves unambiguous communication.
+The activity of 'coding' achieves unambiguous communication. Working with a 'specification' is a way to translate a wish into reality.
 
 When you specify something - maybe a recipe, a process or a formula - you code.
-Someone else, even a person with lower familiarity could repeat it.
+Someone else, even a person with lower familiarity could repeat it. That makes it 'real'.
 
-When you code without specifying a solution - think of it as typing, not coding.
-People would find such 'software solutions' hard to understand and expensive to change.
+Always code with a specification. Without that, you can't say when you're done.
 
 [What does specification cost?](https://sudeeprp.github.io/default-coding/form-fit-function)
 
@@ -31,7 +30,7 @@ Like to contribute to open-source and make developers faster? Pick one of these!
 
 ### Specification using LLMs
 
-Use Bard API (or ChatGPT API). The tool needs to input text from a file and output to another file.
+Use Bard API (or ChatGPT API) to realize one if these tools-
 
 **Tool**: detect ambiguity / inconsistency in a set of statements.
 
@@ -47,6 +46,8 @@ One method to make it easier is to link two topics or statements with a question
 
 For example: Link the sentences 'a watch with IPX7 rating can be submerged in water' and 'test for IPX7 by submerging at one meter depth for a minute' with a question in-between like 'how do we test a watch for IPX7 rating?'
 
+Accept input as an array of strings and output the questions as another array.
+
 ### Review analytics
 
 Human code reviews are mandatory to enhance secure coding pratices and make the code readable.
@@ -59,6 +60,8 @@ Find off-the-shelf tools that can arrive at these KPIs, based on code and pull r
 Code the remaining tools, for KPIs that aren't covered by tooling already.
 
 ### Reading the Gita
+
+This is about contributing to an Android app written in Flutter.
 
 An [English translation of Sri Ramanuja's commentary on Krishna's Gita](https://github.com/RaPaLearning/gita-begin) in md files.
 An Android app to present this information is [in the store](https://play.google.com/store/apps/details?id=com.gita.sudeep.gitahtml&authuser=0)
