@@ -49,7 +49,7 @@ For example: Consider the sentences 'a watch with IPX7 rating can submerge in wa
 
 Accept input as an array of strings and output the questions as another array.
 
-### Review analytics
+### Code-review analytics
 
 Human code reviews are mandatory to enhance secure coding practices and make the code readable.
 Yet, human reviewers aren't always consistent in the attention they provide.
@@ -59,6 +59,14 @@ Review KPIs are the starting point to continuously improve this practice.
 
 Find off-the-shelf tools that can arrive at these KPIs, based on code and pull requests in GitHub.
 Code the remaining tools, for KPIs that aren't covered by tooling already.
+
+### Automation
+
+To automate mundane activities, you need to state the action without ambiguity.
+
+Here, the domain is dental imaging. The activity includes skilled work like measuring implants. It also has mundane work, like copy-pasting into a report.
+
+You need to separate the mundane activities and automate them.
 
 ### Reading the Gita
 
