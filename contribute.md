@@ -21,17 +21,17 @@ For example: Consider the sentences 'a watch with IPX7 rating can submerge in wa
 
 Accept input as an array of strings and output the questions as another array.
 
-Prior art using `langchain`: https://github.com/Ritunjay-11/langchainqna
+Prior art using `langchain`: <https://github.com/Ritunjay-11/langchainqna>
 
 ## Write for the reader
 
-Force writers to focus on their readers. Write a GitHub action to take a public repo and analyze all the markdown files in there.
+Force writers to focus on their readers. Write a GitHub action to take a public repository and analyze all the markdown files in there.
 
 Use rules-based tools such as `vale` to call out anti-patterns such as passive voice, use of first person, and weasel words.
 
 Use LLMs to ask questions and generate alternatives.
 
-Prior art using `vale`: https://github.com/RaPaLearning/write4u
+Prior art using `vale`: <https://github.com/RaPaLearning/write4u>
 
 ## Code-review analytics
 
@@ -54,7 +54,7 @@ Here, the domain is dental imaging. The activity includes skilled work like meas
 
 You need to separate the mundane activities and automate them.
 
-Prior art: https://github.com/MaanyaUpadhyaya/dentalreporting
+Prior art: <https://github.com/MaanyaUpadhyaya/dentalreporting>
 
 ## Reading the Gita
 
