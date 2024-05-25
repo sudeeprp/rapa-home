@@ -2,7 +2,7 @@
 
 Welcome to RaPa Learning. Here, everyone has an opportunity to learn by contributing.
 
-You could extend published code, build guardrails to focus on your intent, or offer epic ideas for implementation.
+Extend published code. Build guardrails to focus on your intent. Offer epic ideas for implementation.
 
 ## Discovery as a service
 

@@ -26,4 +26,4 @@ Catch your issues as you make them!
 
 ## Contribute
 
-Like to contribute to open-source and make developers faster? [Pick one of these](contribute.md)!
+Like to contribute to open-source? Want to make developers faster? [Pick one of these](contribute.md)!
