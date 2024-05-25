@@ -22,7 +22,7 @@ Catch your issues as you make them!
 
 [Flutter](https://github.com/sudeeprp/GitaPower/tree/master/.github/workflows)
 
-[Blogging Style](https://github.com/sudeeprp/rapa-home/blob/main/.github/workflows/lint.yml)
+[Blogging Style](https://github.com/sudeeprp/rapa-home/blob/main/.github/workflows/lint.yml) and a related [VS Code plugin](https://marketplace.visualstudio.com/items?itemName=alex9smith.writing-style-checker)
 
 ## Contribute
 
