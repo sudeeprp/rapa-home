@@ -53,7 +53,7 @@ Reviews need continuous improvements. Process-indicators can help.
 Find off-the-shelf tools that can arrive at these KPIs, based on code and pull requests in GitHub.
 Code the remaining tools, for KPIs that aren't covered by tooling already.
 
-Compare current review records to what a generative AI could do. Try LLMs to take sample pull requests, feed their change-sets with a prompt like "how can this code improve?"
+Compare current review records to what a generative AI could do. Try LLMs to take pull requests, feed their change-sets with a prompt like "how can this code improve?"
 
 ## Automation in dental imaging
 
