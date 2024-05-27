@@ -2,7 +2,7 @@
 
 ## Specification using LLM
 
-Use Bard API (or ChatGPT API) to realize one if these tools-
+Use OpenAI APIs to realize one of these tools-
 
 **Tool**: detect ambiguity / inconsistency in a set of statements.
 
