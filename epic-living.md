@@ -62,3 +62,9 @@ Come on, open up and give your service. Didn't you hear?
 [![Kanakadasa-sequence](https://img.youtube.com/vi/ItrnnqIhhGI/0.jpg)](https://www.youtube.com/watch?v=ItrnnqIhhGI)
 
 [![Krishna-sees](https://img.youtube.com/vi/Cs57pRloChs/0.jpg)](https://www.youtube.com/watch?v=Cs57pRloChs)
+
+## Varaha to Ranganatha
+
+Sriman Narayana gives us a lot of opportunities to let go
+
+[![Let-go-ego](https://img.youtube.com/vi/LN_bylRMHGM/0.jpg)](https://www.youtube.com/watch?v=LN_bylRMHGM)
