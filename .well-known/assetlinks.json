@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gita.sudeep.gitahtml",
+      "sha256_cert_fingerprints":
+      ["EB:59:D4:EB:7A:B3:5E:6B:75:92:DD:9E:71:63:A1:51:38:64:D6:9C:50:69:98:0A:A5:E3:4B:8F:A3:A2:FE:18"]
+    }
+}]
