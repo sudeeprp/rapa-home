@@ -2,3 +2,4 @@ theme: jekyll-theme-architect
 title: रaपa Learning
 logo: images/rapa.png
 description: ದಾಸನ ಮಾಡಿಕೊ ಎನ್ನ
+include: ['.well-known']
