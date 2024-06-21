@@ -65,6 +65,6 @@ Come on, open up and give your service. Didn't you hear?
 
 ## Varaha to Ranganatha
 
-Sriman Narayana gives many opportunities to let go
+Sriman Narayana gives many opportunities to let go. Video courtesy [Yogayush](https://www.instagram.com/yogaayush/)
 
 [![Let-go-ego](https://img.youtube.com/vi/LN_bylRMHGM/0.jpg)](https://www.youtube.com/watch?v=LN_bylRMHGM)
