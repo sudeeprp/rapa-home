@@ -20,7 +20,7 @@ He rules without a beginning or an end. He never ceases to surprise.
 
 This universe forms a minute part of Narayana.
 Yet, He asks Bali for His own universe.
-Bali recognises Narayana in the form of the huge Trivikrama,
+Bali recognises Narayana in the huge form of Trivikrama,
 loses his ego and offers his own head.
 To Narayana, the value of a devotee exceeds the entire Universe. Become that devotee.
 
