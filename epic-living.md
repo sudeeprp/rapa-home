@@ -68,3 +68,7 @@ Come on, open up and give your service. Didn't you hear?
 Sriman Narayana gives many opportunities to let go. Video courtesy [Yogayush](https://www.instagram.com/yogaayush/)
 
 [![Let-go-ego](https://img.youtube.com/vi/LN_bylRMHGM/0.jpg)](https://www.youtube.com/watch?v=LN_bylRMHGM)
+
+And the skeleton:
+
+[![Behind-the-scene](https://img.youtube.com/vi/KosjoKLuTc4/0.jpg)](https://www.youtube.com/watch?v=KosjoKLuTc4)
