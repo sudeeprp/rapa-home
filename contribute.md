@@ -53,17 +53,9 @@ Reviews need continuous improvements. Process-indicators can help.
 Find off-the-shelf tools that can arrive at these KPIs, based on code and pull requests in GitHub.
 Code the remaining tools, for KPIs that aren't covered by tooling already.
 
+Prior art: https://github.com/apoorvasj/keyanalytics
+
 Compare current review records to what a generative AI could do. Try LLMs to take pull requests, feed their change-sets with a prompt like "how can this code improve?"
-
-## Automation in dental imaging
-
-To automate mundane activities, you need to specify the action.
-
-Here, the domain is dental imaging. The activity includes skilled work like measuring implants. It also has mundane work, like copy-pasting into a report.
-
-You need to separate the mundane activities and automate them.
-
-Prior art: https://github.com/MaanyaUpadhyaya/dentalreporting
 
 ## Reading the Gita
 
