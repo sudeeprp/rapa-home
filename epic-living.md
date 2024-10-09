@@ -71,4 +71,10 @@ Sriman Narayana gives many opportunities to let go. Video courtesy [Yogayush](ht
 
 And the skeleton:
 
+The demon Hiranyakahpu resides within us as greed, anxiety, fear, anger, hesitation... demanding attention at the cost of our purpose. Let Narasimha free you!
+
 [![Behind-the-scene](https://img.youtube.com/vi/KosjoKLuTc4/0.jpg)](https://www.youtube.com/watch?v=KosjoKLuTc4)
+
+## Narasimha again
+
+[![Narasimha](https://img.youtube.com/vi/3LkdWJNykSs/0.jpg)](https://www.youtube.com/watch?v=3LkdWJNykSs)
