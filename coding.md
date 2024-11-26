@@ -13,7 +13,7 @@ Always code with a specification. Without that, you can't say when you're done.
 
 ## Guardrails
 
-Practical workflows to use as GitHub actions.
+Practical workflows to use as GitHub actions, based on [this literature](code-references.md).
 Catch your issues as you make them!
 
 [Python](https://github.com/clean-code-craft-tcq-4/typewise-alert-py/tree/main/.github/workflows)
