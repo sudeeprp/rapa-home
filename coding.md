@@ -2,14 +2,28 @@
 
 > Communicate without ambiguity
 
-The activity of 'coding' achieves unambiguous communication. Working with a 'specification' is a way to translate a wish into reality.
+When you specify something - a recipe, a behavior, or a formula - you're coding.
+Someone else, even a person with lower familiarity could execute it. That makes it 'real'.
 
-When you specify something - maybe a recipe, a process or a formula - you code.
-Someone else, even a person with lower familiarity could repeat it. That makes it 'real'.
+Coding is about taking a user's need and specifying it for a machine to execute.
+The user's need undergoes a series of refinements in its journey to become code.
 
-Always code with a specification. Without that, you can't say when you're done.
+```mermaid
+graph LR
+    A[Need] --> B[Specification] --> C[Code]
+```
 
-[What does specification cost?](https://sudeeprp.github.io/default-coding/form-fit-function)
+## Habits for effective coding
+
+- Habit of **precision**: Recognize and remove ambiguity
+- Habit of **engineering**: Specify a consumer's need it in smaller parts
+- Habit of **humility**: Acknowledge your limits, collaborate, learn
+- Habit of **persistance**: Keep refining
+
+## Crafting your habits
+
+Habits are built by deliberate practice. Guide your practice with help from humans, automated guardrails, and AI.
+Use this [sequence of assignments and reviews](code-craft.md) to build your habits.
 
 ## Guardrails
 

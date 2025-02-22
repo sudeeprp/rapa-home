@@ -71,7 +71,7 @@ Implement semantic search on this [English translation of Gita Bhashya](https://
 
 Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared". 
 
-One possibility: Generate embeddings for all paragraphs in the commentary. When searching, generate an embedding for the search phrase. Use a combination of BM25 and cosine-distance to pick closest paragraphs. Present the top 3 results.
+One possibility: Store embeddings for all paragraphs in the commentary. Generate an embedding for the entered search-phrase. Use a combination of BM25 and cosine-distance to pick the closest paragraphs. Present the top 3 results.
 
 Prior art:
 
