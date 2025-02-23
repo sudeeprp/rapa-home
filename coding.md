@@ -16,7 +16,7 @@ graph LR
 ## Habits for effective coding
 
 - Habit of **precision**: Recognize and remove ambiguity
-- Habit of **engineering**: Specify a consumer's need it in smaller parts
+- Habit of **modularity**: Specify a consumer's need in parts
 - Habit of **humility**: Acknowledge your limits, collaborate, learn
 - Habit of **persistance**: Keep refining
 
