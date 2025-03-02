@@ -7,6 +7,8 @@ Krishna Himself lists a few qualities that would disqualify a person from the kn
 - This isn't for a person who doesn't intend to listen
 - Finally, it's not for the individual who finds fault whenever Krishna's virtues, characteristics, and possessions are described.
 
+It's ok if you had disqualifying tendencies sometime in the past, it's enough if you are willing to be free of disqualifications now [<<ref sadhureva sa...]()
+
 ## Making it special
 
 Once you are qualified, Krishna says how to make this knowledge special-
