@@ -64,6 +64,8 @@ Compare current review records to what a generative AI could do. Try LLMs to tak
 
 ## Reading the Gita
 
+[Check your qualification](krishna-gita-qualifications.md) before working on this section.
+
 ### Semantic search
 
 Gita Bhashya is Sri Ramanuja's commentary on Krishna's Gita.
