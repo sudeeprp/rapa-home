@@ -6,12 +6,8 @@ When you specify something - a recipe, a behavior, or a formula - you're coding.
 Someone else, even a person with lower familiarity could execute it. That makes it 'real'.
 
 Coding is about taking a user's need and specifying it for a machine to execute.
-The user's need undergoes a series of refinements in its journey to become code.
-
-```mermaid
-graph LR
-    A[Need] --> B[Specification] --> C[Code]
-```
+You make the user's need more and more specific, till it ends in usable code.
+Then the user will have further needs, of course 😊
 
 ## Habits for effective coding
 

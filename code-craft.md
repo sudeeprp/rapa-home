@@ -12,6 +12,14 @@ Weekly assignments to build habits for clean-code
 [Java](https://github.com/clean-code-craft-p-1/statisact-java) |
 [Python](https://github.com/clean-code-craft-tcq-1/statisact-py)
 
+### Habits for precision
+
+- Introductions
+- Software lifecycle constraints: Time, Cost, Capability
+- Being productive with reliability
+- Productivity of writing vs reading code
+- Why habits? Because software grows in small increments
+
 ## Week 1: Modular, well-named
 
 [Breakdown code](https://github.com/clean-code-personal/assignments/blob/main/small.md), add new feature with minimal side-effects
