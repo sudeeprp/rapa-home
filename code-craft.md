@@ -4,21 +4,22 @@ Weekly assignments to build habits for clean-code
 
 ## Entrance: Test-driven statistics
 
-[Checkpoint](https://github.com/clean-code-craft-tcq-2/assignments/blob/main/entry.md): Ability to program with tests; Participate.
+[Introduction](https://github.com/clean-code-craft-tcq-2/assignments/blob/main/entry.md): Program with tests
 
 [C](https://github.com/clean-code-craft-p-1/statisact-c) |
 [C++](https://github.com/clean-code-craft-p-1/statisact-cpp) |
 [C#](https://github.com/clean-code-craft-p-1/statisact-cs) |
 [Java](https://github.com/clean-code-craft-p-1/statisact-java) |
-[Python](https://github.com/clean-code-craft-tcq-1/statisact-py)
+[Python](https://github.com/clean-code-craft-p-1/statisact-py)
 
 ### Habits for precision
 
-- Introductions
-- Software lifecycle constraints: Time, Cost, Capability
-- Being productive with reliability
-- Productivity of writing vs reading code
-- Why habits? Because software grows in small increments
+- Need productivity **and** reliability, not either/or
+- Complexity comes in the way. How is complexity built?
+- Software and its complexity grows in increments. Habits can play in increments too.
+- Introduce the assignment
+- Reliability: What can still go wrong?
+- Using static analysis for _your_ goals
 
 ## Week 1: Modular, well-named
 
@@ -32,6 +33,8 @@ Weekly assignments to build habits for clean-code
 
 ### Habits for modularity
 
+- Recap: Using tests to be precise with our purpose
+- Productivity of writing vs reading code
 - Break for Single Responsibility - isolate changes
 - Name your files and functions to reflect purpose, rather than their contents
 - Add functionality by adding code, rather than changing the legacy
@@ -55,7 +58,8 @@ Avoid false positives. Then [pass the failing test](https://github.com/clean-cod
 
 ### Habits for proving your code
 
-- Test to express acceptability - what would make a user accept this software?
+- Test to express acceptability - what would make this software acceptable to a user?
+- FIRST principle of unit testing: Fast, Independent, Repeatable, Self-validating, Thorough
 - Isolate your functionality from its dependencies. Use functional constructs, dependency injection and mocks.
 - Focus the tests on your value-add. Avoid testing proven dependencies.
 
@@ -79,9 +83,11 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 
 ### Habits for simplicity
 
-- Split into parts, choose their names to reflect their purpose.
+- Split to simplify. Check the names - are the semantics close to reality?
+- Lower complexity = Simpler tests
 - Evaluate multiple methods of splitting. Choose the one that has least semantic distance.
 - Recognize open-close principle: Add new functionality by adding new code, rather than changing the legacy.
+- Till what point in development would you allow it to be open?
 
 ### Review for lucidity
 

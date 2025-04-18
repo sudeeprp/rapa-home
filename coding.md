@@ -14,7 +14,7 @@ Then the user will have further needs, of course 😊
 - Habit of **precision**: Recognize and remove ambiguity
 - Habit of **modularity**: Specify a consumer's need in parts
 - Habit of **humility**: Acknowledge your limits, collaborate, learn
-- Habit of **persistance**: Keep refining
+- Habit of **persistence**: Keep refining
 
 ## Crafting your habits
 
