@@ -15,7 +15,7 @@ Weekly assignments to build habits for clean-code
 ### Habits for precision
 
 - Need productivity **and** reliability, not either/or
-- Complexity comes in the way. How is complexity built?
+- Complexity comes in the way. Why does software become complex?
 - Software complexity grows in increments. Habits can play in increments too.
 - Try the assignment
 - Reliability: What can still go wrong?
