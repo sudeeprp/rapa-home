@@ -14,12 +14,12 @@ Weekly assignments to build habits for clean-code
 
 ### Habits for precision
 
-- Need productivity **and** reliability, not either/or
+- Need productivity **and** reliability. Why should we choose between them?
 - Complexity comes in the way. Why does software become complex?
 - Software complexity grows in increments. Habits can play in increments too.
 - Try the assignment
 - Reliability: What can still go wrong?
-- Using static analysis for _your_ goals
+- How does code generation (LLM) help you?
 
 ## Week 1: Modular, well-named
 
@@ -37,6 +37,8 @@ Weekly assignments to build habits for clean-code
 - Productivity of writing vs reading code
 - Break for Single Responsibility - isolate changes
 - Name your files and functions to reflect purpose, rather than their contents
+- Try the assignment
+- Tool myths: Using static analysis for _your_ goals
 - Add functionality by adding code, rather than changing the legacy
 
 ### Review modularity
