@@ -43,7 +43,8 @@ A 'guardrail' tool can help you to focus on your consumers, whenever you stray. 
 Use rules-based tools such as `vale`. Call out anti-patterns such as passive voice, use of first person, and weasel words.
 
 **Suggest**:
-Use LLMs to generate alternatives. Sometimes, alternatives will need more details. In those cases, ask leading questions to the prompter. For example: Generation of active voice would need clarity about the actor. Your tool will need to ask the user for such missing details.
+Use LLMs to generate alternatives. Sometimes, alternatives will need more details. In those cases, ask leading questions to the prompter.
+For example: Generation of active voice would need clarity about the actor. Your tool will need to ask the user for such missing details.
 
 Prior art using `vale`: <https://github.com/RaPaLearning/write4u>
 
@@ -71,7 +72,7 @@ Compare current review records to what a generative AI could do. Try LLMs to tak
 Gita Bhashya is Sri Ramanuja's commentary on Krishna's Gita.
 Implement semantic search on this [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
 
-Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared". 
+Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared".
 
 One possibility: Store embeddings for all paragraphs in the commentary. Generate an embedding for the entered search-phrase. Use a combination of BM25 and cosine-distance to pick the closest paragraphs. Present the top 3 results.
 

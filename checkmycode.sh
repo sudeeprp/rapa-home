@@ -2,8 +2,8 @@
 set -e
 
 npx jscpd --min-lines 3 --min-tokens 20 --threshold 0 --gitignore --ignore "**/*.yml"
-markdownlint --ignore vale --fix .
 markdown-link-check *.md
+markdownlint --ignore vale --fix .
 # this will only check md files in the current directory.
 # because vale cannot ignore folders yet... and the vale README isn't compliant :)
 vale/vale *.md

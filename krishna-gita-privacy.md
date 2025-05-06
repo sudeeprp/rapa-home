@@ -4,7 +4,8 @@ This is an open source application developed by Sudeep Prasad. The source code i
 
 I take your privacy seriously.
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data, app preferences (like themes) selected by the you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
+All data, app preferences (like themes) selected by the you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 ## Explanation of permissions requested in the app
 
