@@ -43,8 +43,11 @@ Weekly assignments to build habits for clean-code
 
 ### Review modularity
 
-- Isolation: Is new functionality added as a new file?
+- Contrast: build-frameworks in the entrance, basic tools in the next
+- Expects and asserts
+- Can LLMs help with modularity?
 - Can you recognize the purpose of each file by looking at its name?
+- Isolating life-cycles: Is new functionality added as a new file?
 - Are there asserts for the new functionality? Do they reflect what's acceptable to the user?
 
 ## Week 2, 3: Fail on false positive, Pass the failing test
