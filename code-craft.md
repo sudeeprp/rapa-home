@@ -73,7 +73,7 @@ Avoid false positives. Then [pass the failing test](https://github.com/clean-cod
 - Do the tests reflect what's acceptable to the consumer? E.g., "alignment in the output"
 - Do they fail for the right reasons?
 - Is the software under test isolated from external factors? E.g., computation isolated from I/O
-- What is the residual risk that remains after testing?
+- What is the residual risk that remains after testing? E.g., how far can a lighting vendor guarantee your safety and satisfaction?
 
 ## Week 4, 5: Reduce complexity, Extend and refactor
 
