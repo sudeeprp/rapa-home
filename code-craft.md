@@ -1,6 +1,6 @@
 # Crafting your habits
 
-Weekly assignments to build habits for clean-code
+Weekly assignments to build habits for productivity _and_ reliability
 
 ## Entrance: Test-driven statistics
 
