@@ -17,7 +17,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 - Need productivity **and** reliability. Why should we choose between them?
 - Complexity comes in the way. Why does software become complex?
 - Software complexity grows in increments. Habits can play in increments too.
-- Try the assignment
+- Try the assignment: TDD for precision
 - Reliability: What can still go wrong?
 - How does code generation (LLM) help you?
 
@@ -39,7 +39,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 - Name your files and functions to reflect purpose, rather than their contents
 - Try the assignment
 - Tool myths: Using static analysis for _your_ goals
-- Add functionality by adding code, rather than changing the legacy
+- Add functionality by adding code. Leave the legacy unchanged (Open-close principle)
 
 ### Review modularity
 
@@ -90,6 +90,7 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 
 - Split to simplify. Check the names - are the semantics close to reality?
 - Lower complexity = Simpler tests
+- Recognize "open to extension" across the software lifecycle
 - Evaluate multiple methods of splitting. Choose the one that has least semantic distance.
 - Recognize open-close principle: Add new functionality by adding new code, rather than changing the legacy.
 - Till what point in development would you allow it to be open?
@@ -99,3 +100,4 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 - Would a consumer of the software be able to recognize the abstractions by their name?
 - Do passing tests give confidence of acceptable behavior?
 - Do the tests protect against common mistakes (E.g., missed translations)
+- Can we recognize the control flow? E.g., as a chain of responsibility?
