@@ -48,20 +48,25 @@ For example: Generation of active voice would need clarity about the actor. Your
 
 Prior art using `vale`: <https://github.com/RaPaLearning/write4u>
 
-## Code-review analytics
+## Analytics on development
 
-Human code reviews contribute to readability and secure coding practices. They also foster learning and respect for peers in a team.
-Yet, human reviewers aren't consistent in their attention.
+The flow from a user-story to deployed functionality involves many steps:
 
-Reviews need continuous improvements. Process-indicators can help.
-[See here](https://thenewstack.io/how-good-is-your-code-review-process/) for a bunch of review analytics.
+- recognizing its outcomes in the real world
+- confirming your understanding
+- prototyping
+- coding, engineering, handling failures
+- reviewing and testing as per your understanding
+- deploying
+- observing and scaling
 
-Find off-the-shelf tools that can arrive at these KPIs, based on code and pull requests in GitHub.
-Code the remaining tools, for KPIs that aren't covered by tooling already.
+Each of these need continuous improvements. LLMs can generate good-looking code, but you can see that it's only one part of the story. The task here is to build tools that can monitor each aspect and 'nudge' the team with data and insights.
 
-Prior art: https://github.com/apoorvasj/keyanalytics
+Survey off-the-shelf tools that work with data in GitHub - for example, issues, pull requests, commits, and code.
 
-Compare current review records to what a generative AI could do. Try LLMs to take pull requests, feed their change-sets with a prompt like "how can this code improve?"
+Prior art:
+
+For review analysis: https://github.com/apoorvasj/keyanalytics
 
 ## Reading the Gita
 
