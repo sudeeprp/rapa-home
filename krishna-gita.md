@@ -8,4 +8,6 @@
 
 [Read in the app](https://play.google.com/store/apps/details?id=com.gita.sudeep.gitahtml)
 
+[Read on the web](https://rapalearning.github.io/gita-discover/)
+
 [The feed](https://krishnagita-9873c.web.app/)
