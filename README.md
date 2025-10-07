@@ -4,6 +4,8 @@
 
 RaPa Learning is a space where you develop precision thinking, otherwise known as 'coding'.
 
+Every day is like yesterday. Or not. It's also an opportunity to move ahead with purpose and precision.
+
 When you break down complex problems into clear, working ideas, you're practicing the same skill that helps you understand yourself, your goals, and your path forward.
 
 ## What we do
@@ -20,7 +22,7 @@ When you break down complex problems into clear, working ideas, you're practicin
 3. **Reflect and apply**: Use these same skills to examine your life, emotions, and goals
 4. **Grow together**: Share insights and learn from the community
 
-## Get started
+## Start practicing today
 
 Browse running projects and contribute:
 
@@ -32,4 +34,4 @@ Browse running projects and contribute:
 
 [Epic living](epic-living.md)
 
-Contact us: [email](sudeep.rp@gmail.com)
+Contact us: [sudeep@rapalearning.com](mailto:sudeep@rapalearning.com)
