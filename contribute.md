@@ -1,76 +1,67 @@
 # Contribute
 
-## Specification using LLM
+## Optimize development practices
 
-Use OpenAI APIs to realize one of these tools-
+Software delivery is a craft without a perfect playbook. Every team, every project, every context demands its own approach.
 
-### Tool to detect ambiguity
+While code generation tools can produce impressive snippets, the real challenge lies in building systems that solve real needs, and sustain their value over time.
 
-Example: Consider these statements:
+Since there's no one-size-fits-all solution, every aspect of our development process must evolve continuously through deliberate practice. Practice becomes habit through cycles of reflection and reinforcement.
 
-- the user needs a readable report
-- the report needs to have 75 columns
+This section focuses on building tools and practices, which transform improvements from occasional retrospectives into daily practice.
 
-They contradict each other, since any human would have difficulty in reading 75 columns at once.
+### Reflection for efficiency and sustainability
 
-Given a bunch of statements in a text file, use the LLM APIs to identify the inconsistencies.
-Next, use it to detect ambiguity. For example, the word 'readable' is ambiguous when the reader isn't known.
+Focus on indicators of efficiency and sustainability.
 
-### Tool to ask leading question and link concepts
+**Efficiency Indicators:**
 
-When specifications get precise, they get verbose and hard to digest. That's why standards make for dry reading.
-One method to make it easier is to link two topics or statements with a question.
+- Pull request cycle time (creation to merge)
+- Time between commit and first review
+- Code review + rework turnaround time
+- Deployment frequency and lead time
+- Build success/failure rates
+- Number of iterations per pull request
 
-Consider these sentences:
+**Sustainability Indicators:**
 
-- a watch with IPX7 rating can submerge in water
-- test for IPX7: submerge at one meter depth for a minute
+- Code churn rate (lines changed/deleted shortly after being added)
+- Technical debt accumulation (TODO comments, code complexity trends)
+- Dependency freshness and security vulnerability counts
+- Documentation coverage and staleness
 
-Link them with a question in-between like '_how do you test a watch for IPX7 rating?_'
+The task is to build tools that help the team reflect on their performance in real-time.
 
-Accept input as an array of strings and output the questions as another array.
+The implementation could consist of data-extractors, a data-model to store the indicators, mechanisms to show trends, take action, and judge effectiveness.
 
-Prior art using `langchain`: https://github.com/Ritunjay-11/langchainqna
-
-## Prompt with Purpose
-
-A precise and purposeful prompt can lead to actionable insights. That can form the basis for effective agents.
-What can you do to bring that quality into your prompts?
-
-A 'guardrail' tool can help you to focus on your consumers, whenever you stray. Write a GitHub action to take a markdown file and analyze the writing in it. The analysis could detect, as well as suggest.
-
-**Detect**:
-Use rules-based tools such as `vale`. Call out anti-patterns such as passive voice, use of first person, and weasel words.
-
-**Suggest**:
-Use LLMs to generate alternatives. Sometimes, alternatives will need more details. In those cases, ask leading questions to the prompter.
-For example: Generation of active voice would need clarity about the actor. Your tool will need to ask the user for such missing details.
-
-Prior art using `vale`: <https://github.com/RaPaLearning/write4u>
-
-## Analytics on development
-
-The flow from a user-story to deployed functionality involves many steps:
-
-- recognizing its outcomes in the real world
-- confirming your understanding
-- prototyping
-- coding, engineering, handling failures
-- reviewing and testing as per your understanding
-- deploying
-- observing and scaling
-
-Each of these need continuous improvements. LLMs can generate good-looking code, but you can see that it's only one part of the story. The task here is to build tools that can monitor each aspect and 'nudge' the team with data and insights.
-
-Survey off-the-shelf tools that work with data in GitHub - for example, issues, pull requests, commits, and code.
+Start by exploring commercial tools in this domain.
 
 Prior art:
 
-For review analysis: https://github.com/apoorvasj/keyanalytics
+Code review analysis: <https://github.com/apoorvasj/keyanalytics>
 
-## Reading the Gita
+### Nudging for effectiveness
+
+In addition to being efficient and sustainable, we need to steer on the path of effectiveness:
+
+- To solve real problems
+- To have clarity on purpose
+- To engage consumers of our software
+
+Implement gates at each stage to 'nudge' the team in real-time, with data and insights.
+
+Examples:
+
+- Is a GitHub discussion mature enough to be an issue? If not, insert a note to highlight points of immaturity.
+- Are acceptance-criteria in an issue relatable by someone who hasn't been part of the discussion? Do they reflect what makes the product "acceptable"?
+- Does the code call-out its intention?
+- Do "passing tests" give confidence that users would "accept" the product?
+
+## Sharing the Gita
 
 [Check your qualification](krishna-gita-qualifications.md) before working on this section.
+
+Read [the ambition](krishna-gita-ambition.md)
 
 ### Semantic search
 
@@ -83,13 +74,17 @@ One possibility: Store embeddings for all paragraphs in the commentary. Generate
 
 Prior art:
 
-- https://github.com/shna9126/Gita_rag
-- https://github.com/RaPaLearning/askys-discover/blob/main/askys-discover/main.py
+- <https://github.com/shna9126/Gita_rag>
+- <https://github.com/RaPaLearning/askys-discover/blob/main/askys-discover/main.py>
 
 ### Frontend
 
-Contribute to an Android app written in Flutter.
+Contribute to an exploration written in Flutter.
 
 [This Android app](https://play.google.com/store/apps/details?id=com.gita.sudeep.gitahtml&authuser=0) presents the [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
 
 The app is open-sourced. [See the issues in the app's repository](https://github.com/sudeeprp/GitaPower/issues) and pick one marked 'good first issue'.
+
+## Older problem statements
+
+[Click here](archived-contributions.md) for archived problem statements.
