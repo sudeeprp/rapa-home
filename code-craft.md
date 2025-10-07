@@ -14,7 +14,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 
 ### Habits for precision
 
-- Need productivity **and** reliability. Why should we choose between them?
+- Need productivity **and** reliability. Why should we have to choose between them? Our consumers need both!
 - Complexity comes in the way. Why does software become complex?
 - Software complexity grows in increments. Habits can play in increments too.
 - Try the assignment: TDD for precision
