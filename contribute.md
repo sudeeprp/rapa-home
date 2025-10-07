@@ -85,6 +85,6 @@ Contribute to an exploration written in Flutter.
 
 The app is open-sourced. [See the issues in the app's repository](https://github.com/sudeeprp/GitaPower/issues) and pick one marked 'good first issue'.
 
-## Older problem statements
+## Archives
 
-[Click here](archived-contributions.md) for archived problem statements.
+[Archived contributions](archived-contributions.md) were done in the past, but have off-the-shelf solutions now.
