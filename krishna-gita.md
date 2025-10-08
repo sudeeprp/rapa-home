@@ -12,4 +12,4 @@
 
 [Read on the web](https://rapalearning.github.io/gita-discover/)
 
-[The feed](https://krishnagita-9873c.web.app/)
+[Contribute to the app](https://github.com/sudeeprp/GitaPower/issues)
