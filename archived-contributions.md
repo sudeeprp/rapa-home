@@ -1,6 +1,6 @@
 # Archived contributions
 
-These contributions are archived, since they are available off-the-shelf now.
+These contributions are available off-the-shelf now.
 
 ## Specification using LLM
 

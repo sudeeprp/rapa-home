@@ -15,7 +15,7 @@ The list of permissions required by the app can be found in the `AndroidManifest
 | :---: | --- |
 | android.permission.INTERNET | Fetch text to present in the app, collect statistics (without personal identification) |
 
-If you find any security vulnerability, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will respond.
+If you find any security vulnerability, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, and I will respond.
 
 Yours sincerely,
 

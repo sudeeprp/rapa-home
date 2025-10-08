@@ -6,7 +6,7 @@ Software delivery is a craft without a perfect playbook. Every team, every proje
 
 While code generation tools can produce impressive snippets, the real challenge lies in building systems that solve real needs, and sustain their value over time.
 
-Since there's no one-size-fits-all solution, every aspect of our development process must evolve continuously through deliberate practice. Practice becomes habit through cycles of reflection and reinforcement.
+Since there's no one-size-fits-all solution, every aspect of a development process must evolve continuously through deliberate practice. Practice becomes habit through cycles of reflection and reinforcement.
 
 This section focuses on building tools and practices, which transform improvements from occasional retrospectives into daily practice.
 
@@ -25,7 +25,7 @@ Focus on indicators of efficiency and sustainability.
 
 **Sustainability Indicators:**
 
-- Code churn rate (lines changed/deleted shortly after being added)
+- Code churn rate (lines changed/deleted shortly adding them)
 - Technical debt accumulation (TODO comments, code complexity trends)
 - Dependency freshness and security vulnerability counts
 - Documentation coverage and staleness
@@ -42,11 +42,11 @@ Code review analysis: <https://github.com/apoorvasj/keyanalytics>
 
 ### Nudging for effectiveness
 
-In addition to being efficient and sustainable, we need to steer on the path of effectiveness:
+In addition to being efficient and sustainable, teams need to steer on the path of effectiveness:
 
 - To solve real problems
 - To have clarity on purpose
-- To engage consumers of our software
+- To engage consumers
 
 Implement gates at each stage to 'nudge' the team in real-time, with data and insights.
 
@@ -68,7 +68,7 @@ Read [the ambition](krishna-gita-ambition.md)
 Gita Bhashya is Sri Ramanuja's commentary on Krishna's Gita.
 Implement semantic search on this [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
 
-Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared".
+Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a Shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared".
 
 One possibility: Store embeddings for all paragraphs in the commentary. Generate an embedding for the entered search-phrase. Use a combination of BM25 and cosine-distance to pick the closest paragraphs. Present the top 3 results.
 
@@ -87,4 +87,4 @@ The app is open-sourced. [See the issues in the app's repository](https://github
 
 ## Archives
 
-[Archived contributions](archived-contributions.md) were done in the past, but have off-the-shelf solutions now.
+[Archived contributions](archived-contributions.md) were cutting-edge, but have off-the-shelf solutions now.
