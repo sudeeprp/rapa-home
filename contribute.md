@@ -68,7 +68,7 @@ Read [the ambition](krishna-gita-ambition.md)
 Gita Bhashya is Sri Ramanuja's commentary on Krishna's Gita.
 Implement semantic search on this [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
 
-Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a Shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared".
+Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a Shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared"
 
 One possibility: Store embeddings for all paragraphs in the commentary. Generate an embedding for the entered search-phrase. Use a combination of BM25 and cosine-distance to pick the closest paragraphs. Present the top 3 results.
 

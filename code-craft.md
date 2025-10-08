@@ -70,9 +70,9 @@ Avoid false positives. Then [pass the failing test](https://github.com/clean-cod
 
 ### Review the tests for proof of value
 
-- Do the tests reflect what's acceptable to the consumer? E.g., "alignment in the output"
+- Do the tests reflect what's acceptable to the consumer? Check tests for behavior like "alignment in the output"
 - Do they fail for the right reasons?
-- Is the software under test isolated from external factors? E.g., computation isolated from I/O
+- Is the software under test isolated from external factors? Is computation isolated from I/O?
 - What is the residual risk that remains after testing?
 
 ## Week 4, 5: Reduce complexity, Extend and refactor
@@ -100,4 +100,4 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 - Would a consumer of the software be able to recognize the abstractions by their name?
 - Do passing tests give confidence of acceptable behavior?
 - Do the tests protect against common mistakes? (pay attention to configuration data-models)
-- Can we recognize the control flow?
+- Can you recognize the control flow?
