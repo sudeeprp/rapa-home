@@ -2,11 +2,11 @@
 
 **Realize your ideas. Discover yourself through practice.**
 
-RaPa Learning is a space where you develop precision thinking, otherwise known as 'coding'.
-
 Every day is like yesterday. Or not. It's also an opportunity to move ahead with purpose and precision.
 
 When you break down complex problems into clear, working ideas, you're practicing the same skill that helps you understand yourself, your goals, and your path forward.
+
+This kind of clarity, or precision, is what helps us code effectively.
 
 ## Activities
 
