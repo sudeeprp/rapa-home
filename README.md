@@ -27,4 +27,4 @@ Browse running projects and contribute:
 
 [Epic living](epic-living.md)
 
-Contact: [sudeep@rapalearning.com](mailto:sudeep@rapalearning.com)
+Contact: [Sudeep@rapalearning.com](mailto:sudeep@rapalearning.com)

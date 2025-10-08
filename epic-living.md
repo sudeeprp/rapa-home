@@ -75,6 +75,6 @@ And the skeleton:
 
 ## Narasimha again
 
-The demon Hiranyakahpu resides within us as greed, anxiety, fear, anger, hesitation... demanding attention at the cost of our purpose. Let Narasimha free you!
+The demon Hiranyakashipu resides within everyone as greed, anxiety, fear, anger, hesitation and other distractions. They demand attention at the cost of purpose. Let Narasimha free you!
 
 [![Narasimha](https://img.youtube.com/vi/3LkdWJNykSs/0.jpg)](https://www.youtube.com/watch?v=3LkdWJNykSs)

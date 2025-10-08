@@ -14,7 +14,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 
 ### Habits for precision
 
-- Need productivity **and** reliability. Why should we have to choose between them? Our consumers need both!
+- Need productivity **and** reliability. Why choose one? Consumers need both!
 - Complexity comes in the way. Why does software become complex?
 - Software complexity grows in increments. Habits can play in increments too.
 - Try the assignment: TDD for precision
@@ -33,7 +33,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 
 ### Habits for modularity
 
-- Recap: Using tests to be precise with our purpose
+- Recap: Using tests to be precise with purpose
 - Productivity of writing vs reading code
 - Break for Single Responsibility - isolate changes
 - Name your files and functions to reflect purpose, rather than their contents
@@ -70,10 +70,10 @@ Avoid false positives. Then [pass the failing test](https://github.com/clean-cod
 
 ### Review the tests for proof of value
 
-- Do the tests reflect what's acceptable to the consumer? E.g., "alignment in the output"
+- Do the tests reflect what's acceptable to the consumer? Check tests for behavior like "alignment in the output"
 - Do they fail for the right reasons?
-- Is the software under test isolated from external factors? E.g., computation isolated from I/O
-- What is the residual risk that remains after testing? E.g., how far can a lighting vendor guarantee your safety and satisfaction?
+- Is the software under test isolated from external factors? Is computation isolated from I/O?
+- What is the residual risk that remains after testing?
 
 ## Week 4, 5: Reduce complexity, Extend and refactor
 
@@ -99,5 +99,5 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 
 - Would a consumer of the software be able to recognize the abstractions by their name?
 - Do passing tests give confidence of acceptable behavior?
-- Do the tests protect against common mistakes (E.g., missed translations)
-- Can we recognize the control flow? E.g., as a chain of responsibility?
+- Do the tests protect against common mistakes? (pay attention to configuration data-models)
+- Can you recognize the control flow?

@@ -18,7 +18,7 @@ Then the user will have further needs, of course 😊
 
 ## Crafting your habits
 
-Habits are built by deliberate practice. Guide your practice with help from humans, automated guardrails, and AI.
+You build habits by deliberate practice. Guide your practice with help from humans, automated guardrails, and AI.
 Use this [sequence of assignments and reviews](code-craft.md) to build your habits.
 
 ## Guardrails

@@ -2,7 +2,7 @@
 
 [The Art of Readable Code](https://www.oreilly.com/library/view/the-art-of/9781449318482/) by Dustin Boswell & Trevor Foucher, ISBN 9780596802295
 
->Code should be written to minimize the time it would take for someone else to understand it.
+>Code to minimize the time it would take for someone else to understand it.
 
 ---
 [Test Driven Development: By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/)

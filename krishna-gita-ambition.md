@@ -1,6 +1,6 @@
 # Ambition
 
-Delight in your life is our ambition. Not time-bound or outcome-oriented. Just a continuum of Krishna's delight.
+Delight in your life is the ambition here. Not time-bound or outcome-oriented. Just a continuum of Krishna's delight.
 
 Krishna Himself shows how to make it special-
 

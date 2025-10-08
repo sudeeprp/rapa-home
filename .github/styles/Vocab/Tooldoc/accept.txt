@@ -1,5 +1,8 @@
 Gita
 RaPa
+Ramanuja
+Sudeep
+Prasad
 Gajendra
 Moksha
 Narasimha
@@ -15,3 +18,10 @@ Sriman
 Ranganatha
 Yogayush
 cyclomatic
+Jez
+Forsgren
+Nystrom
+Bhashya
+Shloka
+Hiranyakashipu
+Sanjaya
