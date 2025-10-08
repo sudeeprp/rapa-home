@@ -6,7 +6,7 @@ Every day is like yesterday. Or not. It's also an opportunity to move ahead with
 
 When you break down complex problems into clear, working ideas, you're practicing the same skill that helps you understand yourself, your goals, and your path forward.
 
-This kind of clarity, or precision, is what helps us code effectively.
+The activity of coding is just one of the things you can do effectively, with This kind of clarity and precision.
 
 ## Activities
 
