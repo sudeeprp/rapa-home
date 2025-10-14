@@ -1,5 +1,7 @@
 # Contribute
 
+These projects are about building and deploying products. Read the product goals below, and pick one that interests you. This work starts from refining the specifications, all the way till release and deployment.
+
 ## Optimize development practices
 
 Software delivery is a craft without a perfect playbook. Every team, every project, every context demands its own approach.
