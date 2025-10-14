@@ -4,7 +4,7 @@ Weekly assignments to build habits for productivity _and_ reliability
 
 ## Entrance: Test-driven statistics
 
-[Introduction](https://github.com/clean-code-craft-tcq-2/assignments/blob/main/entry.md): Program with tests
+Introduction: Program with tests
 
 [C](https://github.com/clean-code-craft-p-1/statisact-c) |
 [C++](https://github.com/clean-code-craft-p-1/statisact-cpp) |
