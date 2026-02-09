@@ -2,62 +2,40 @@
 
 These projects are about building and deploying products. Read the product goals below, and pick one that interests you. This work starts from refining the specifications, all the way till release and deployment.
 
-## Optimize development practices
+## Extract multi-lingual text from scanned books
 
-Software delivery is a craft without a perfect playbook. Every team, every project, every context demands its own approach.
+South India has many languages and scripts. Ancient scriptures are published in the same script as the language, or a different one. For example, Tamil literature could be written in Telugu script. A person familiar with Kannada and English may want to read it.
 
-While code generation tools can produce impressive snippets, the real challenge lies in building systems that solve real needs, and sustain their value over time.
+Many of these are rare and published only once. Scanned copies will be available at sites like prapatti.org.
 
-Since there's no one-size-fits-all solution, every aspect of a development process must evolve continuously through deliberate practice. Practice becomes habit through cycles of reflection and reinforcement.
+### Extract, standardize, index
 
-This section focuses on building tools and practices, which transform improvements from occasional retrospectives into daily practice.
+The task is to extract text from the scanned pdf (OCR), correct it with a lexicon/LLM and standardize to IAST, so that it can be read in any script.
 
-### Reflection for efficiency and sustainability
+### Recite
 
-Focus on indicators of efficiency and sustainability.
+While tools can already generate audio summaries from such material, their pronunciation of Indian languages is westernized. Find a way to insert proper pronunciation within generated English sentences.
 
-**Efficiency Indicators:**
+## Agent assisted exploration
 
-- Pull request cycle time (creation to merge)
-- Time between commit and first review
-- Code review + rework turnaround time
-- Deployment frequency and lead time
-- Build success/failure rates
-- Number of iterations per pull request
+Are there any questions I've not asked yet?
 
-**Sustainability Indicators:**
+After the first phase of a learning journey, it's tempting to feel that you know it all. That's because all your initial questions you had have been answered.
 
-- Code churn rate (lines changed/deleted shortly adding them)
-- Technical debt accumulation (TODO comments, code complexity trends)
-- Dependency freshness and security vulnerability counts
-- Documentation coverage and staleness
+### Recognize a learner's boundaries
 
-The task is to build tools that help the team reflect on their performance in real-time.
-
-The implementation could consist of data-extractors, a data-model to store the indicators, mechanisms to show trends, take action, and judge effectiveness.
-
-Start by exploring commercial tools in this domain.
-
-Prior art:
-
-Code review analysis: <https://github.com/apoorvasj/keyanalytics>
-
-### Nudging for effectiveness
-
-In addition to being efficient and sustainable, teams need to steer on the path of effectiveness:
-
-- To solve real problems
-- To have clarity on purpose
-- To engage consumers
-
-Implement gates at each stage to 'nudge' the team in real-time, with data and insights.
+It's common to learn by prompting an LLM. Given a conversation, identify the gaps in understanding.
 
 Examples:
 
-- Is a GitHub discussion mature enough to be an issue? If not, insert a note to highlight points of immaturity.
-- Are acceptance-criteria in an issue relatable by someone who hasn't been part of the discussion? Do they reflect what makes the product "acceptable"?
-- Does the code call-out its intention?
-- Do "passing tests" give confidence that users would "accept" the product?
+- If a learner has prompted to get a script, but hasn't asked for an explanation of it, that indicates a gap.
+- If they have prompted with errors following that, then that's another gap.
+
+The gaps in their understanding need to be summarized visually, as a mind-map (better ideas are welcome).
+
+### Expand their horizon
+
+- Show the consequences of the gaps in their understanding (E.g., if they have solved an issue entirely by )
 
 ## Sharing the Gita
 
