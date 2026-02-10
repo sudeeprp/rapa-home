@@ -2,7 +2,31 @@
 
 Weekly assignments to build habits for productivity _and_ reliability
 
-## Entrance: Test-driven statistics
+## AI assisted development
+
+AI amplifies your habits: AI shortens some activities that held you back. Your prompts, driven by your habits, amplify the effect. Here's a summary of habits and their amplification effects with AI.
+
+| Habit | Code | AI-amplification |
+|-------|------|------------------|
+| Quick prototypes, hard to scale | Functioning code without tests | Lots of prototypes in many branches, little can be released |
+| Writing tests first | Minimal code, isolated dependencies | AI generates edge cases you might miss, generates code to handle them with minimal context |
+| Low-complexity functions | Modular, single responsibility code | Easier to iterate with AI completions |
+| Meaningful naming | Functions and variables reflect purpose | AI suggests domain-appropriate names and catches inconsistencies |
+| Code diverges from user-need due to low feedback | Dead code, low feature-utilization | AI bloatware |
+| Pasting code without understanding consequences | Trouble-shooting time grows | AI-assisted growth is exponential |
+
+[Summary of AI-induced productivity](ai-usage-productivity.md)
+
+## Habits for precision
+
+- Need productivity **and** reliability. Why choose one? Consumers need both!
+- Complexity comes in the way. Why does software become complex?
+- Software complexity grows in increments. Habits can play in increments too.
+- Try the assignment: TDD for precision
+- Reliability: What can still go wrong?
+- How does code generation (LLM) help you?
+
+### Entrance: Test-driven statistics
 
 Introduction: Program with tests
 
@@ -11,15 +35,6 @@ Introduction: Program with tests
 [C#](https://github.com/clean-code-craft-p-1/statisact-cs) |
 [Java](https://github.com/clean-code-craft-p-1/statisact-java) |
 [Python](https://github.com/clean-code-craft-p-1/statisact-py)
-
-### Habits for precision
-
-- Need productivity **and** reliability. Why choose one? Consumers need both!
-- Complexity comes in the way. Why does software become complex?
-- Software complexity grows in increments. Habits can play in increments too.
-- Try the assignment: TDD for precision
-- Reliability: What can still go wrong?
-- How does code generation (LLM) help you?
 
 ## Week 1: Modular, well-named
 
