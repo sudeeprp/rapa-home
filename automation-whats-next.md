@@ -66,4 +66,4 @@ Such an interaction builds trust in a way that machines would not be able to man
 
 So what just happened? What made this interaction happen? What's the space in which a person shares their subtle feelings? Does it depend on my skills, or my 'soft skills' trainining? or my intentions?
 
-<< maybe link 'intention' to 'creating space', which is independent of our past, which we must uncover within ourselves >>
+**TODO** link 'intention' to 'creating space', which is independent of our past, which we must uncover within ourselves.
