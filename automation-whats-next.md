@@ -38,7 +38,6 @@ References:
 
 - [Limits of AI in graphic design](https://nicolesteffen.com/2023/05/28/the-limits-of-artificial-intelligence-in-graphic-design-why-ai-cannot-be-truly-creative-yet/) lists divergent thinking (deviating from established ways), intuition (coming from personal experience), aesthetic sense and emotions as uniquely human skills.
 - [6 Critical Human Skills](https://www.linkedin.com/business/talent/blog/learning-and-development/human-skills-age-of-ai) lists critical thinking and empathy, also mentioning that they are undervalued. Part of those 'soft' skills are mindful dialogue, interpersonal-communication, relationship-building
-- [LLMs enhancing decision-making](https://aurotekcorp.com/large-language-models-enhances-decision-making/) talks about turning data into actionable insights can bring in data-driven recommendations. [LLMs in organizations](https://www.forbes.com/sites/jeannemeister/2025/02/15/the-rise-of-the-hybrid-workforce-humans-and-ai-working-together/) gives it a more concrete shape.
 
 ### What's the use of being human
 
@@ -59,7 +58,7 @@ Continuing the anecdote, say the LLM suggested a policy where teams need to be i
 The LLM-style response may be "It’s understandable to face challenges balancing new parenthood and work. Consider flexible options or reduced hours. Here are some available resources to help".
 
 What just happened here? Empathetic LLMs.
-[Deliberate Directions](https://deliberatedirections.com/empathy-in-leadership-guide/) lists techniques to use empathy for strategic objectives. [LLMs in healthcare setting](https://www.jmir.org/2024/1/e52597/) indicates that the LLM output showed more empathy in many cases. In another set of studies, [evaluators perceived AI as more compassionate than expert humans](https://www.nature.com/articles/s44271-024-00182-6). [Empathetic LLMs](https://www.tandfonline.com/doi/full/10.1080/0020174X.2025.2518448#d1e469) shows how LLMs can help in self-analysis as well.
+[Deliberate Directions](https://deliberatedirections.com/empathy-in-leadership-guide/) lists techniques to use empathy for strategic objectives. [LLMs in healthcare setting](https://www.jmir.org/2024/1/e52597/) indicates that the LLM output showed more empathy in many cases. In another set of studies, [evaluators perceived AI as more compassionate than expert humans](https://www.nature.com/articles/s44271-024-00182-6).
 
 Let's now construct a higher-order human response: Suppose the person had shared an experience - Parenting may be rewarding, but they missed the 'belonging-ness' that teamwork brings.
 So in addition to the LLM-style response, the manager asks for ways they can help retain the connection? Just to listen, with no pressure to change. With the intention to pull the team together to help if needed.
