@@ -4,9 +4,10 @@ These projects are about building and deploying products. Read the product goals
 
 ## Extract multi-lingual text from scanned books
 
-South India has many languages and scripts. Ancient scriptures are published in the same script as the language, or a different one. For example, Tamil literature could be written in Telugu script. A person familiar with Kannada and English may want to read it.
+South India has many languages and scripts. Ancient scriptures are published in the same script as the language, or a different one. For example, Tamil literature could be written in Telugu script.
+A person familiar with Kannada and English may want to read it.
 
-Many of these are rare and published only once. Scanned copies will be available at sites like prapatti.org.
+Many of these are rare and published only once. Scanned copies are available at sites like prapatti.org and sadagopan.org. For instance, Parashara Bhatta's Bhagavad Guna Darpana
 
 ### Extract, standardize, index
 
@@ -24,18 +25,18 @@ After the first phase of a learning journey, it's tempting to feel that you know
 
 ### Recognize a learner's boundaries
 
-It's common to learn by prompting an LLM. Given a conversation, identify the gaps in understanding.
+It's common to learn by prompting an LLM. Given such a conversation, identify the gaps in understanding.
 
 Examples:
 
 - If a learner has prompted to get a script, but hasn't asked for an explanation of it, that indicates a gap.
-- If they have prompted with errors following that, then that's another gap.
+- Following that, if they have prompted to solve errors, then that may be another gap.
 
-The gaps in their understanding need to be summarized visually, as a mind-map (better ideas are welcome).
+The gaps in their understanding need to be summarized visually, as a mind-map (better ideas are welcome too).
 
 ### Expand their horizon
 
-- Show the consequences of the gaps in their understanding (E.g., if they have solved an issue entirely by )
+Show the consequences of the gaps in their understanding E.g., suppose they have solved an issue entirely by trial-and-error. Their next encounter with the same issue would take an unpredictable duration - that's the consequence.
 
 ## Sharing the Gita
 
