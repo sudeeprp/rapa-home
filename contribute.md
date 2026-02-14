@@ -7,7 +7,7 @@ These projects are about building and deploying products. Read the product goals
 South India has many languages and scripts. Ancient scriptures are published in the same script as the language, or a different one. For example, Tamil literature could be written in Telugu script.
 A person familiar with Kannada and English may want to read it.
 
-Many of these are rare and published only once. Scanned copies are available at sites like prapatti.org and sadagopan.org. For instance, Parashara Bhatta's Bhagavad Guna Darpana
+Many of these are rare and published once. Scanned copies are available at sites like prapatti.org and sadagopan.org. For instance, [Parashara Bhatta's Bhagavad Guna Darpana](https://sadagopan.org/ebook/pdf/Bhagavad%20Guna%20Darpanam.pdf)
 
 ### Extract, standardize, index
 
