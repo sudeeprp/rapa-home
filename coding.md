@@ -3,7 +3,7 @@
 > Communicate without ambiguity
 
 When you specify something - a recipe, a behavior, or a formula - you're coding.
-Someone else, even a person with lower familiarity could execute it. That makes it 'real'.
+Someone else, even a person (or AI-model) with lower familiarity could execute it. That makes it 'real'.
 
 Coding is about taking a user's need and specifying it for a machine to execute.
 You make the user's need more and more specific, till it ends in usable code.
@@ -19,7 +19,8 @@ Then the user will have further needs, of course 😊
 ## Crafting your habits
 
 You build habits by deliberate practice. Guide your practice with help from humans, automated guardrails, and AI.
-Use this [sequence of assignments and reviews](code-craft.md) to build your habits.
+
+[Practice the craft with AI assistance](code-craft.md) to build your habits.
 
 ## Guardrails
 

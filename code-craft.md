@@ -7,15 +7,19 @@ Weekly assignments to build habits for productivity _and_ reliability
 AI amplifies your habits: AI shortens some activities that held you back. Your prompts, driven by your habits, amplify the effect. Here's a summary of habits and their amplification effects with AI.
 
 | Habit | Code | AI-amplification |
-|-------|------|------------------|
-| Quick prototypes, hard to scale | Functioning code without tests | Lots of prototypes in many branches, little can be released |
-| Writing tests first | Minimal code, isolated dependencies | AI generates edge cases you might miss, generates code to handle them with minimal context |
-| Low-complexity functions | Modular, single responsibility code | Easier to iterate with AI completions |
-| Meaningful naming | Functions and variables reflect purpose | AI suggests domain-appropriate names and catches inconsistencies |
-| Code diverges from user-need due to low feedback | Dead code, low feature-utilization | AI bloatware |
-| Pasting code without understanding consequences | Trouble-shooting time grows | AI-assisted growth is exponential |
+| --- | --- | --- |
+| Quick prototypes, hard to scale | Functioning code without tests | 😰 Lots of prototypes, few releases |
+| Writing tests first | Minimal code, isolated dependencies | ✨ Generates edge cases & handles them |
+| Low-complexity functions | Modular, single-responsibility | 🚀 Faster, reliable iterations |
+| Meaningful naming | Functions reflect purpose | 🎯 Suggestions fit into the domain |
+| Diverge from user-need | Dead code, low utilization | 🗑️ Bloatware risk |
+| Paste code without understanding | Growing trouble-shooting time | ⚠️ Exponential complexity growth |
 
-[Summary of AI-induced productivity](ai-usage-productivity.md)
+### Anecdotes
+
+Sometimes, the models amaze with their ability to generate what's needed. Sometimes they don't. The above habits can improve its chances of achieving 'above and beyond' results.
+
+See here for a simple [listing of AI-induced productivity](ai-usage-productivity.md)
 
 ## Habits for precision
 
