@@ -4,7 +4,7 @@
 | ---------- | ---------------- | ------------------------------- |
 | Understand | Explainer        | “What does this module do?”     |
 | Generate   | Draft writer     | “Create CRUD endpoint skeleton” |
-| Accelerate | Autocomplete     | (auto-generated boilerplate)    |
+| Accelerate | Autocomplete     | (auto generated boilerplate)    |
 | Transform  | Refactor partner | “Split into smaller functions”  |
 | Verify     | Reviewer/tester  | “Find edge cases, add tests”    |
 | Navigate   | Search assistant | “Where is auth enforced?”       |
@@ -15,7 +15,7 @@ Here are the different ways of "generating" code
 
 | Tool | Method | Time-saved |
 |---|---|---|
-| No AI | Lookup existing code (incl stackoverflow), copy-paste, adapt | Avoid re-learning stuff that someone did already |
+| No AI | Lookup existing code (incl Stack Overflow), copy-paste, adapt | Avoid re-learning stuff that someone did already |
 | Autocomplete | LLM does a best-guess based on your code context | Avoid manual copy-paste-adapt |
 | Start a project | LLM gives the most common starting-point | Avoid going through the "Get started" documentation |
 | Re-usable instructions | LLM tunes its output based on team standards | Avoid hiccups in onboarding, reduce review burden |
@@ -54,4 +54,3 @@ graph TB
     D --> E["Ship more often"]
     E --> A
 ```
-

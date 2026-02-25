@@ -4,24 +4,24 @@ These projects are about building and deploying products. Read the product goals
 
 ## Extract multi-lingual text from scanned books
 
-South India has many languages and scripts. Ancient scriptures are published in the same script as the language, or a different one. For example, Tamil literature could be written in Telugu script.
+South India has many languages and scripts. Ancient scriptures can be in the same script as the language, or a different one. For example, Tamil literature could be in Telugu script.
 A person familiar with Kannada and English may want to read it.
 
 Many of these are rare and published once. Scanned copies are available at sites like prapatti.org and sadagopan.org. For instance, [Parashara Bhatta's Bhagavad Guna Darpana](https://sadagopan.org/ebook/pdf/Bhagavad%20Guna%20Darpanam.pdf)
 
 ### Extract, standardize, index
 
-The task is to extract text from the scanned pdf (OCR), correct it with a lexicon/LLM and standardize to IAST, so that it can be read in any script.
+The task is to extract text from the scanned pdf (OCR), correct it with a lexicon/LLM and standardize to IAST, so you can read it in any script.
 
 ### Recite
 
-While tools can already generate audio summaries from such material, their pronunciation of Indian languages is westernized. Find a way to insert proper pronunciation within generated English sentences.
+While tools can already generate audio summaries from such material, their pronunciation of Indian languages sounds western. Find a way to insert proper pronunciation within generated English sentences.
 
 ## Agent assisted exploration
 
-Are there any questions I've not asked yet?
+Are there any questions you've not asked yet?
 
-After the first phase of a learning journey, it's tempting to feel that you know it all. That's because all your initial questions you had have been answered.
+After the first phase of a learning journey, it's tempting to feel that you know it all. That's because you have answers to all your initial questions.
 
 ### Recognize a learner's boundaries
 
@@ -32,11 +32,11 @@ Examples:
 - If a learner has prompted to get a script, but hasn't asked for an explanation of it, that indicates a gap.
 - Following that, if they have prompted to solve errors, then that may be another gap.
 
-The gaps in their understanding need to be summarized visually, as a mind-map (better ideas are welcome too).
+As a learner, it helps to see the gaps in your understanding visually. For example, as a mind-map (better ideas are welcome too).
 
 ### Expand their horizon
 
-Show the consequences of the gaps in their understanding E.g., suppose they have solved an issue entirely by trial-and-error. Their next encounter with the same issue would take an unpredictable duration - that's the consequence.
+Show the consequences of the gaps in their understanding. For example, suppose they have solved an issue entirely by trial-and-error. Their next encounter with the same issue would take an unpredictable duration - that's the consequence.
 
 ## Sharing the Gita
 
