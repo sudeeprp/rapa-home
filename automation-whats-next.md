@@ -9,7 +9,7 @@ What's next? Suppose a machine can find every known answer (instead of a human r
 
 Perhaps inquisitiveness - “asking the question” is the higher-order activity? Coupled with critical thinking to be skeptical about the answer? The conviction to drive with intent? And the discipline to follow through?
 
-**The hypothesis**: These things aren't found outside; they are within us. Is the new skill to look within ourselves?
+**The hypothesis**: These things aren't found outside; they are within you. Is the new skill to look within yourself?
 
 ## Strengths of the hypothesis
 
@@ -51,7 +51,7 @@ Case in point: Consider two cases, one from a people-management and another from
 
 **People management**: Say you have a software team, and you need to make rules regarding hybrid work. You feed the team's background, the organization-goal, and other relevant information into an LLM.
 It would suggest what most humans would do, to maximize towards organization goals. if you go accordingly, then you're not needed - the LLM can frame the rules.
-If you take a decision not driven by any of these, it may make me human. But that would make you arbitrary. And maybe harm the organization objectives.
+If you take a decision not driven by any of these, it may make you human. But that would make you arbitrary. And maybe harm the organization objectives.
 
 Empathy is often quoted as a human trait, which machines don't have. Does empathy play a role here?
 [Leading with empathy](https://www.innovativehumancapital.com/article/leading-with-empathy-how-understanding-others-creates-connection-and-drives-success) illustrates empathy's role in driving connection, trust and motivation.
@@ -73,4 +73,4 @@ Such an interaction builds trust in a way that machines would not be able to man
 
 What just happened? What made this interaction happen? What's the space in which a person shares their subtle feelings? Does it depend on your skills, or your 'soft skills' training? or your intentions?
 
-**TODO** link 'intention' to 'creating space', which is independent of our past, which we must uncover within ourselves.
+**TODO** link 'intention' to 'creating space', which is independent of your past, which you must uncover within yourself.
