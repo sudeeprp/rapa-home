@@ -13,12 +13,12 @@
 
 Here are the different ways of "generating" code
 
-| Tool | Method | Potential time-saver |
+| Tool | Method | Time-saved |
 |---|---|---|
-| No AI | Lookup existing code (incl stackoverflow), copy-paste, adapt | Avoid re-learning stuff that someone learnt |
+| No AI | Lookup existing code (incl stackoverflow), copy-paste, adapt | Avoid re-learning stuff that someone did already |
 | Autocomplete | LLM does a best-guess based on your code context | Avoid manual copy-paste-adapt |
 | Start a project | LLM gives the most common starting-point | Avoid going through the "Get started" documentation |
-| Re-usable instructions | LLM tunes its output based on team standards | Avoid hiccups in onboarding and review burden |
+| Re-usable instructions | LLM tunes its output based on team standards | Avoid hiccups in onboarding, reduce review burden |
 | Skills | LLM picks the instructions based on context (progressive disclosure) | Avoid unexpected consequence of updating the instructions (modular instructions) |
 | Agents | LLM can automatically trigger modules based on user-need | Avoid bespoke development for every customer quirk |
 
