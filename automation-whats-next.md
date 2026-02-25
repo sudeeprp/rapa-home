@@ -36,8 +36,10 @@ The conclusion—that the next frontier is generating meaningful questions, not 
 
 References:
 
-- [Limits of AI in graphic design](https://nicolesteffen.com/2023/05/28/the-limits-of-artificial-intelligence-in-graphic-design-why-ai-cannot-be-truly-creative-yet/) lists divergent thinking (deviating from established ways), intuition (coming from personal experience), aesthetic sense and emotions as uniquely human skills.
-- [6 Critical Human Skills](https://www.linkedin.com/business/talent/blog/learning-and-development/human-skills-age-of-ai) lists critical thinking and empathy, also mentioning that they are undervalued. Part of those 'soft' skills are mindful dialogue, interpersonal-communication, relationship-building
+- [Limits of AI in graphic design](https://nicolesteffen.com/2023/05/28/the-limits-of-artificial-intelligence-in-graphic-design-why-ai-cannot-be-truly-creative-yet/) lists divergent thinking (deviating from established ways),
+intuition (coming from personal experience), aesthetic sense and emotions as uniquely human skills.
+- [6 Critical Human Skills](https://www.linkedin.com/business/talent/blog/learning-and-development/human-skills-age-of-ai) lists critical thinking and empathy,
+also mentioning that they are undervalued. Part of those 'soft' skills are mindful dialogue, interpersonal-communication, relationship-building
 
 ### What's the use of being human
 
@@ -52,18 +54,22 @@ It would suggest what most humans would do, to maximize towards organization goa
 If I take a decision not driven by any of these, it may make me human. But that would make me arbitrary. And maybe harm the organization objectives.
 
 Empathy is often quoted as a human trait, which machines don't have. Does empathy play a role here?
-[Leading with empathy](https://www.innovativehumancapital.com/article/leading-with-empathy-how-understanding-others-creates-connection-and-drives-success) illustrates empathy's role in driving connection, trust and motivation. It lists techniques like active-listening and perspective-taking as ways to build this skill.
+[Leading with empathy](https://www.innovativehumancapital.com/article/leading-with-empathy-how-understanding-others-creates-connection-and-drives-success) illustrates empathy's role in driving connection, trust and motivation.
+It lists techniques like active-listening and perspective-taking as ways to build this skill.
 
-Continuing the anecdote, say the LLM suggested a policy where teams need to be in office three days a week, going by the current industry trend. However, there's someone in the team needing to care for a child at home. 
+Continuing the anecdote, say the LLM suggested a policy where teams need to be in office three days a week, going by the current industry trend.
+However, there's someone in the team needing to care for a child at home.
 The LLM-style response may be "It’s understandable to face challenges balancing new parenthood and work. Consider flexible options or reduced hours. Here are some available resources to help".
 
 What just happened here? Empathetic LLMs.
-[Deliberate Directions](https://deliberatedirections.com/empathy-in-leadership-guide/) lists techniques to use empathy for strategic objectives. [LLMs in healthcare setting](https://www.jmir.org/2024/1/e52597/) indicates that the LLM output showed more empathy in many cases. In another set of studies, [evaluators perceived AI as more compassionate than expert humans](https://www.nature.com/articles/s44271-024-00182-6).
+[Deliberate Directions](https://deliberatedirections.com/empathy-in-leadership-guide/) lists techniques to use empathy for strategic objectives. [LLMs in healthcare setting](https://www.jmir.org/2024/1/e52597/)
+indicates that the LLM output showed more empathy in many cases.
+In another set of studies, [evaluators perceived AI as more compassionate than expert humans](https://www.nature.com/articles/s44271-024-00182-6).
 
 Let's now construct a higher-order human response: Suppose the person had shared an experience - Parenting may be rewarding, but they missed the 'belonging-ness' that teamwork brings.
 So in addition to the LLM-style response, the manager asks for ways they can help retain the connection? Just to listen, with no pressure to change. With the intention to pull the team together to help if needed.
 Such an interaction builds trust in a way that machines would not be able to manage
 
-So what just happened? What made this interaction happen? What's the space in which a person shares their subtle feelings? Does it depend on my skills, or my 'soft skills' trainining? or my intentions?
+So what just happened? What made this interaction happen? What's the space in which a person shares their subtle feelings? Does it depend on my skills, or my 'soft skills' training? or my intentions?
 
 **TODO** link 'intention' to 'creating space', which is independent of our past, which we must uncover within ourselves.

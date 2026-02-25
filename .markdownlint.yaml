@@ -1,3 +1,6 @@
 # MD013/line-length - Line length
 MD013:
   line_length: 256
+
+# MD060/table-column-style
+MD060: false
