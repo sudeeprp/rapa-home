@@ -2,7 +2,7 @@
 
 These projects are about building and deploying products. Read the product goals below, and pick one that interests you. This work starts from refining the specifications, all the way till release and deployment.
 
-## Extract multi-lingual text from scanned books
+## `LLScan` Extract multi-lingual text from scanned books
 
 South India has many languages and scripts. Ancient scriptures can be in the same script as the language, or a different one. For example, Tamil literature could be in Telugu script.
 A person familiar with Kannada and English may want to read it.
