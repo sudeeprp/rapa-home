@@ -17,7 +17,7 @@ The task is to extract text from the scanned pdf (OCR), correct it with a lexico
 
 While tools can already generate audio summaries from such material, their pronunciation of Indian languages sounds western. Find a way to insert proper pronunciation within generated English sentences.
 
-## Agent assisted exploration
+## `ExAge` Agent assisted exploration
 
 Are there any questions you've not asked yet?
 
@@ -38,7 +38,7 @@ As a learner, it helps to see the gaps in your understanding visually. For examp
 
 Show the consequences of the gaps in their understanding. For example, suppose they have solved an issue entirely by trial-and-error. Their next encounter with the same issue would take an unpredictable duration - that's the consequence.
 
-## Sharing the Gita
+## `GitaShare` Sharing the Gita
 
 [Check your qualification](krishna-gita-qualifications.md) before working on this section.
 
