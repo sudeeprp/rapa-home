@@ -13,9 +13,15 @@ Many of these are rare and published once. Scanned copies are available at sites
 
 The task is to extract text from the scanned pdf (OCR), correct it with a lexicon/LLM and standardize to IAST, so you can read it in any script.
 
+Explore [Sarvam AI's document digitization](https://dashboard.sarvam.ai/vision)
+
 ### Recite
 
-While tools can already generate audio summaries from such material, their pronunciation of Indian languages sounds western. Find a way to insert proper pronunciation within generated English sentences.
+Many web pages are multi-lingual too. For example, they could contain English, Kannada, Tanil, Hindi, or Telugu.
+Design ways in which a 'recitation experience' can be added to the browser,
+so people find it easy to listen to multi-lingual text in web pages - by selecting the parts that they cannot read.
+
+Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech.
 
 ## `ExAge` Agent assisted exploration
 
