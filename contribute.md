@@ -31,9 +31,8 @@ Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech)
 In any learning journey, it's worth asking: Are there any questions you've not asked yet?
 
 After the first phase of any learning journey, it's tempting to feel that you know it all. That's because you have answers to all your initial questions.
-Discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy.
 
-This project explores some ways of such discovery.
+Build a tool to discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy. Below is an LLM-friendly way of designing such a tool.
 
 ### Recognize a learner's boundaries
 
@@ -42,13 +41,14 @@ It's common to learn by prompting an LLM. Given such a conversation, identify th
 Examples:
 
 - If a learner has prompted to get a script, but hasn't asked for an explanation of it, that indicates a gap.
-- Following that, if they have prompted to solve errors, then that may be another gap.
+- Following that, if they have prompted to solve issues, then that may be another gap.
 
 As a learner, it helps to see the gaps in your understanding visually. For example, as a mind-map (better ideas are welcome too).
 
-### Expand their horizon
+### Force an expansion of your horizon
 
-Show the consequences of the gaps in their understanding. For example, suppose they have solved an issue entirely by trial-and-error. Their next encounter with the same issue would take an unpredictable duration - that's the consequence.
+Push by showing the consequences of the gaps in understanding. For example, suppose a learner has solved an issue entirely by trial-and-error.
+Their next encounter with the same issue would take an unpredictable duration - that's the consequence of lacking mechanical sympathy.
 
 ## `GitaShare` Sharing the Gita
 
