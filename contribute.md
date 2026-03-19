@@ -25,9 +25,12 @@ Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech)
 
 ## `ExAge` Agent assisted exploration
 
-Are there any questions you've not asked yet?
+In any learning journey, it's worth asking: Are there any questions you've not asked yet?
 
-After the first phase of a learning journey, it's tempting to feel that you know it all. That's because you have answers to all your initial questions.
+After the first phase of any learning journey, it's tempting to feel that you know it all. That's because you have answers to all your initial questions.
+Discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy.
+
+This project explores some ways of such discovery.
 
 ### Recognize a learner's boundaries
 
