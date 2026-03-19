@@ -63,8 +63,8 @@ Implement a domain-aware lookup on this [English translation of Gita Bhashya](ht
 
 Example queries:
 
-- Exact match (like searching a word in a shloka e.g., "sthitaprajnya")
-- Bunch of words (some or all, e.g., "surrender devotion friendship")
+- Exact match (searching a word in a Shloka, like "sthitaprajnya")
+- Bunch of words (some or all, like "surrender devotion friendship")
 - Rough recollection of a phrase in the commentary ("insignificant in front of a mountain")
 - A question ("Don't know the right thing to do. How to come out of it?")
 
@@ -76,7 +76,7 @@ Explore a combination of techniques:
 - Ontology based
 - Generic semantic embeddings as a last resort.
 
-Reason to avoid generic semantic embeddings: The Gita is a fairly technical text with words having precise meanings. For example, a generic model may embed "Supreme Lord" close to the word "Gods".
+Reason to avoid generic semantic embeddings: The Gita is a fairly technical text with words having precise meanings. For example, a generic model may embed `Supreme Lord` close to the word `Gods`.
 However, they aren't always meant that way in the Gita.
 
 Prior art:
