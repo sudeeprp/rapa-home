@@ -17,9 +17,12 @@ Explore [Sarvam AI's document digitization](https://dashboard.sarvam.ai/vision)
 
 ### Recite
 
-Many web pages are multi-lingual too. For example, they could contain English, Kannada, Tanil, Hindi, or Telugu.
-Design ways in which a 'recitation experience' can be added to the browser,
-so people find it easy to listen to multi-lingual text in web pages - by selecting the parts that they cannot read.
+Reading ancient scriptures gives joy. Recitation takes it to the next level.
+Proper recitation requires you to learn from a teacher. However, slow learners may need some confidence first.
+
+Design ways in which you can bring a 'recitation experience',
+so people can speak and get corrections. Example: [Learn Tiruppavai](https://youtu.be/kE6CQO8jhPQ?si=RXn_lFGgxqyjUWqA) is an example of Tamil recitation taught using Telugu script.
+However, YouTube videos lack the ability to listen to you and correct your pronunciation. That is the design problem here.
 
 Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech.
 
@@ -56,11 +59,25 @@ Read [the ambition](krishna-gita-ambition.md)
 ### Semantic search
 
 Gita Bhashya is Sri Ramanuja's commentary on Krishna's Gita.
-Implement semantic search on this [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
+Implement a domain-aware lookup on this [English translation of Gita Bhashya](https://github.com/RaPaLearning/gita-begin)
 
-Can semantic search help? The Gita Bhashya is rich in information. Often, a reader can't recall the context or a Shloka. For example, "I read something that compared mustard seeds to a mountain, but forgot where it appeared"
+Example queries:
 
-One possibility: Store embeddings for all paragraphs in the commentary. Generate an embedding for the entered search-phrase. Use a combination of BM25 and cosine-distance to pick the closest paragraphs. Present the top 3 results.
+- Exact match (like searching a word in a shloka e.g., "sthitaprajnya")
+- Bunch of words (some or all, e.g., "surrender devotion friendship")
+- Rough recollection of a phrase in the commentary ("insignificant in front of a mountain")
+- A question ("Don't know the right thing to do. How to come out of it?")
+
+Explore a combination of techniques:
+
+- Exact match
+- Fuzzy match
+- BM25
+- Ontology based
+- Generic semantic embeddings as a last resort.
+
+Reason to avoid generic semantic embeddings: The Gita is a fairly technical text with words having precise meanings. For example, a generic model may embed "Supreme Lord" close to the word "Gods".
+However, they aren't always meant that way in the Gita.
 
 Prior art:
 
