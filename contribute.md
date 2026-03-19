@@ -21,7 +21,7 @@ Reading ancient scriptures gives joy. Recitation takes it to the next level.
 Proper recitation requires you to learn from a teacher. However, slow learners may need some confidence first.
 
 Design ways in which you can bring a 'recitation experience',
-so people can speak and get corrections. Example: [Learn Tiruppavai](https://youtu.be/kE6CQO8jhPQ?si=RXn_lFGgxqyjUWqA) is an example of Tamil recitation taught using Telugu script.
+so people can recite and get corrections. Example: [Learn Tiruppavai](https://youtu.be/kE6CQO8jhPQ?si=RXn_lFGgxqyjUWqA) is an example of Tamil recitation taught using Telugu script.
 However, YouTube videos lack the ability to listen to you and correct your pronunciation. That is the design problem here.
 
 Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech.
