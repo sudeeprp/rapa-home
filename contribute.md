@@ -45,9 +45,9 @@ Examples:
 
 As a learner, it helps to see the gaps in your understanding visually. For example, as a mind-map (better ideas are welcome too).
 
-### Force an expansion of your horizon
+### Create a sense of urgency
 
-Push by showing the consequences of the gaps in understanding. For example, suppose a learner has solved an issue entirely by trial-and-error.
+Push users by showing the consequences of the gaps in their understanding. For example, suppose a learner has solved an issue entirely by trial-and-error.
 Their next encounter with the same issue would take an unpredictable duration - that's the consequence of lacking mechanical sympathy.
 
 ## `GitaShare` Sharing the Gita
