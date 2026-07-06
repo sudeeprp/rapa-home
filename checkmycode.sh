@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-npx jscpd --min-lines 3 --min-tokens 20 --threshold 0 --gitignore --ignore "**/*.yml"
+npx jscpd --min-lines 3 --min-tokens 20 --threshold 0 --ignore "**/*.yml"
 markdown-link-check --config md-link-config.json *.md
 markdownlint --ignore vale --fix .
 # this will only check md files in the current directory.
