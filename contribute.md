@@ -34,6 +34,8 @@ After the first phase of any learning journey, it's tempting to feel that you kn
 
 Build a tool to discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy. Below is an LLM-friendly way of designing such a tool.
 
+Explore [thoughts on vocational learning](vocational-learning.md) for starting practical application.
+
 ### Recognize a learner's boundaries
 
 It's common to learn by prompting an LLM. Given such a conversation, identify the gaps in understanding.
