@@ -47,4 +47,14 @@ About the last column: What can't an AI do? It isn't good at shifting the ontolo
 | Which retry policy is good here? | Why isn't this operation idempotent? |
 | Which locking mechanism would fit my code? | Why is there shared mutable state? |
 
-Perhaps as a later step, the agent can attempt to see how deep/specific the user's purpose is (like "just take it to production", or "make it usable by customers who need reports", etc) - To assist in choosing the modes of inquiry.
+Perhaps as a later step, the agent classifies the depth of a user's purpose - like "just take it to production", or "make it usable by customers who need reports", or "make it possible to draw actionable insights" - To assist in choosing the modes of inquiry.
+
+## Out of scope
+
+These items are invaluable in learning, yet uncontrollable:
+
+- Lived experiences
+- Collaborative development
+- Inspiration from mentors and peers
+
+However, they are out of scope of this discussion for now.
