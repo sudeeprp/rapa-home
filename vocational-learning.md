@@ -49,6 +49,13 @@ About the last column: What can't an AI do? It isn't good at shifting the ontolo
 
 Perhaps as a later step, the agent classifies the depth of a user's purpose - like "just take it to production", or "make it usable by customers who need reports", or "make it possible to draw actionable insights" - To assist in choosing the modes of inquiry.
 
+## Curiosity
+
+Given a purpose, use synthetic audiences to trigger curiosity. For example, if the purpose was to "make it reliable in production": Instead of structuring all the modes of inquiry, trigger curiosity by synthesising usage:
+
+`Your script successfully processes
+42 repositories. I tried it on 8,000. This happened...`
+
 ## Out of scope
 
 These items are invaluable in learning, yet uncontrollable:
@@ -57,4 +64,4 @@ These items are invaluable in learning, yet uncontrollable:
 - Collaborative development
 - Inspiration from mentors and peers
 
-However, they are out of scope of this discussion for now.
+They are out of scope of this project for now.
