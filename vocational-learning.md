@@ -74,6 +74,13 @@ What are you taking with you in these loops? That depends on your intent. Here i
 | Discover new techniques | Learn |
 | Avoid risks | Manage with existing |
 
+## Curiosity
+
+Given a purpose, use synthetic audiences to trigger curiosity. For example, if the purpose was to "make it reliable in production": Instead of structuring all the modes of inquiry, trigger curiosity by synthesising usage:
+
+`Your script successfully processes
+42 repositories. I tried it on 8,000. This happened...`
+
 ## Out of scope
 
 These items are invaluable in learning, yet uncontrollable:
@@ -82,4 +89,4 @@ These items are invaluable in learning, yet uncontrollable:
 - Collaborative development
 - Inspiration from mentors and peers
 
-However, they are out of scope of this discussion for now.
+They are out of scope of this project for now.
