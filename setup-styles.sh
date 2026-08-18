@@ -3,10 +3,10 @@ set -e
 
 npm install -g jscpd markdownlint-cli markdown-link-check
 
-mkdir vale
+mkdir -p vale
 cd vale
-wget https://github.com/errata-ai/vale/releases/download/v2.15.2/vale_2.15.2_Linux_64-bit.tar.gz
-tar -xf 'vale_2.15.2_Linux_64-bit.tar.gz'
+wget https://github.com/vale-cli/vale/releases/download/v3.17.1/vale_3.17.1_Linux_64-bit.tar.gz
+tar -xf 'vale_3.17.1_Linux_64-bit.tar.gz'
 ./vale -v
 cd -
 
