@@ -54,11 +54,11 @@ Lived Experience (Tacit Knowledge) | What have I experienced that changes how I 
 
 About the last column: What can't an AI do? It isn't good at shifting the ontology. That means- When it does not recognize the purpose, it will not reframe the problem. Examples-
 
-| AI answers | AI doesn't |
-|---|---|
-| How should I paginate GitHub? | Why am I scanning so many repos? |
-| Which retry policy is good here? | Why isn't this operation idempotent? |
-| Which locking mechanism would fit my code? | Why is there shared mutable state? |
+AI answers | AI doesn't
+---|---
+How should I paginate GitHub? | Why am I scanning so many repos?
+Which retry policy is good here? | Why isn't this operation idempotent?
+Which locking mechanism would fit my code? | Why is there shared mutable state?
 
 ## Artifact and the Learner
 
@@ -66,13 +66,13 @@ About the last column: What can't an AI do? It isn't good at shifting the ontolo
 
 What are you taking with you in these loops? That depends on your intent. Here is a sample mapping of different intents in the above repository-reporter example:
 
-| Your intent | Your take-away |
-|---|---|
-| Demonstrate report generation | Report format |
-| Reliability | Risks - What can go wrong in API calls |
-| Surface actionable insights | Team-level development dynamics |
-| Discover new techniques | Learn |
-| Avoid risks | Manage with existing |
+Your intent | Your take-away
+---|---
+Demonstrate report generation | Report format
+Reliability | Risks - What can go wrong in API calls
+Surface actionable insights | Team-level development dynamics
+Discover new techniques | Learn
+Avoid risks | Manage with existing
 
 ## Out of scope
 

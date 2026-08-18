@@ -32,7 +32,7 @@ Link them with a question in-between like '_how do you test a watch for IPX7 rat
 
 Accept input as an array of strings and output the questions as another array.
 
-Prior art using `langchain`: https://github.com/Ritunjay-11/langchainqna
+Prior art using `langchain`: <https://github.com/Ritunjay-11/langchainqna>
 
 ## Prompt with Purpose
 

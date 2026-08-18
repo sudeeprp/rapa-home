@@ -1,6 +1,6 @@
 # Krishna's Gita by Ramanuja
 
-This is an open source application developed by Sudeep Prasad. The source code is available on GitHub with a license: https://github.com/sudeeprp/GitaPower
+This is an open source application developed by Sudeep Prasad. The source code is available on GitHub with a license: <https://github.com/sudeeprp/GitaPower>
 
 I take your privacy seriously.
 
