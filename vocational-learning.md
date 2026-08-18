@@ -11,7 +11,9 @@ Previously, "doing" approximated "knowing" - which means you could apply that kn
 
 For example, if you could make a full-stack application, it meant you understood the technology (UI, HTTP, databases) sufficiently to recognize it in another context.
 
-However, 'making' isn't the proof of 'understanding' anymore. A new full-stack application can be 'vibed' without sufficient knowledge. However, every change thereafter requires more 'vibing' in narrower situations, resulting more trial-and-error cycles with lengthening lead-times.
+However, 'making' isn't the proof of 'understanding' anymore.
+
+A new full-stack application can be 'vibed' without sufficient knowledge. However, every change thereafter requires more 'vibing' in narrower situations, resulting more trial-and-error cycles with lengthening lead-times.
 
 Learners often don't notice this. When the first iteration succeeds, they assume they've got what it takes - till the LLM brings something unexpected. Prompting out of every situation will take an unpredictable amount of time.
 
