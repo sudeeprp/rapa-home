@@ -1,4 +1,4 @@
-# Vocational pedagogies
+# Vocational pedagogy
 
 - **Vocational** learning is about bridging gaps, so you can do and deliver.
 - **Pedagogy** is a method of teaching.
@@ -9,11 +9,11 @@ Learning a vocation interleaves inquiry with practice.
 
 Previously, "doing" approximated "knowing" - which means you could apply that knowledge for another task.
 
-For example, if you could make a full stack application, it meant you understood the technology (UI, HTTP, databases) sufficiently to recognize it in another context.
+For example, if you could make a full-stack application, it meant you understood the technology (UI, HTTP, databases) sufficiently to recognize it in another context.
 
-Now, that link is broken. A new full-stack application can be 'vibed' without sufficient knowledge. However, every change thereafter requires more 'vibing' in narrower situations, resulting more trial-and-error cycles with lengthening lead-times.
+However, 'making' isn't the proof of 'understanding' anymore. A new full-stack application can be 'vibed' without sufficient knowledge. However, every change thereafter requires more 'vibing' in narrower situations, resulting more trial-and-error cycles with lengthening lead-times.
 
-Learners often don't notice this. When the first iteration succeeds, they assume they've got what it takes - till the LLM brings something unexpected. Vibing out of every situation will take an unpredictable amount of time.
+Learners often don't notice this. When the first iteration succeeds, they assume they've got what it takes - till the LLM brings something unexpected. Prompting out of every situation will take an unpredictable amount of time.
 
 The area where they "don't know what they don't know" is going to limit them. The objective here is to expose those gaps and illustrate its consequences. Expect this to kindle curiosity, seek to bridge gaps and improve consistency.
 
@@ -21,9 +21,9 @@ The approach to "exposing gaps" is via inquiry and inference.
 
 ## Curiosity
 
-Let's take an example, where you've vibed some an application that reports on code repositories in an organization, using GitHub APIs and a UI framework. You want to take it to production and have real users use it.
+Take an example, where you've vibed some an application that reports on code repositories in an organization, using GitHub APIs and a UI framework. You want to take it to production and have real users use it.
 
-Vocational learning is and the context of learning was "what do I need, to take it to production". It may require different "modes of inquiry" to address the gaps.
+It may require different "modes of inquiry" to address the gaps between your understanding and the expertise to keep it running.
 
 Inquiry needs a curious mind. Anecdotes can kindle curiosity, by exposing consequences in the real world.
 
@@ -39,18 +39,18 @@ Examples:
 
 Mode of Inquiry | Typical question | GitHub API example | Can an LLM do this?
 -- | -- | -- | --
-Knowledge | What do I know? | GitHub responses are paginated (100 items/page). Rate limits return HTTP 429 or rate-limit headers. | Yes
-Craft | What can I build? | Write Python code that follows Link headers, retries transient failures, and backs off on rate limits. | Yes
+Knowledge | What do you know? | GitHub responses are paginated (100 items/page). Rate limits return HTTP 429 or rate-limit headers. | Yes
+Craft | What can you build? | Write Python code that follows Link headers, retries transient failures, and backs off on rate limits. | Yes
 Mechanistic Understanding | How does it work? | Need to pass page number from client due to APIs being stateless | If it has seen a similar API before
-Practical Wisdom | What should I do here? | Decide whether retries and pagination are worth the added complexity for a tool expected to process only 20 repositories once a week. | Usually
+Practical Wisdom | What should you do here? | Decide whether retries and pagination are worth the added complexity for a tool expected to process only 20 repositories once a week. | Usually
 Design Intent | Why was it designed this way? | Why are APIs paginated with rate-limiting? | Yes
-Adaptive Expertise | What problem am I really solving? | Instead of improving polling, realize that GitHub webhooks or incremental synchronization eliminate most API calls altogether. | Sometimes, if the intent is clear
+Adaptive Expertise | What problem are you really solving? | Instead of improving polling, realize that GitHub webhooks or incremental synchronization eliminate most API calls altogether. | Sometimes, if the intent is clear
 Systems Thinking | What larger system is this part of? | Recognize that API rate limits arise because of polling frequency, scheduling, multiple users, and organizational growth—not merely because a request failed. | Sometimes, if the system is familiar
-Mental Models | What assumptions am I making? | Notice that the code assumes the organization has few repositories, the network is reliable, and failures are rare. | Usually
-Pattern Language | What have I seen before that is similar? | Recognize this as a recurring "paginated API", "producer-consumer", or "eventual consistency" pattern seen in many systems. | Yes
+Mental Models | What assumptions are you making? | Notice that the code assumes the organization has few repositories, the network is reliable, and failures are rare. | Usually
+Pattern Language | What have you seen before, which is similar? | Recognize this as a recurring "paginated API", "producer-consumer", or "eventual consistency" pattern seen in many systems. | Yes
 Empathy | Who experiences the consequences? | Ask whether users care more about immediate freshness or dependable daily reports, and whether occasional missing data is acceptable. | Sometimes, if the intent is clear
-Epistemic Maturity | How confident should I be, and what would change my mind? | Say: "I'm assuming the organization has fewer than 100 repositories. If that assumption is wrong, pagination becomes necessary." | Sometimes, if the context of the client is clear.
-Lived Experience (Tacit Knowledge) | What have I experienced that changes how I see this? | "I've seen nightly sync jobs silently miss data for months because pagination was forgotten. It wasn't obvious because the organization was small at first." | No
+Epistemic Maturity | How confident should you be, and what would change your mind? | Say: "Assume the organization has fewer than 100 repositories. If that assumption is wrong, pagination becomes necessary." | Sometimes, if the context of the client is clear.
+Lived Experience (Tacit Knowledge) | What have you experienced that changes how you see this? | "Nightly sync jobs silently miss data for months because pagination was forgotten. It wasn't obvious because the organization was small at first." | No
 
 About the last column: What can't an AI do? It isn't good at shifting the ontology. That means- When it does not recognize the purpose, it will not reframe the problem. Examples-
 

@@ -34,7 +34,7 @@ After the first phase of any learning journey, it's tempting to feel that you kn
 
 Build a tool to discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy. Below is an LLM-friendly way of designing such a tool.
 
-Prior art: [ExAge](https://github.com/meghana-gajendran/Exage) by [meghana-gajendran](https://github.com/meghana-gajendran) implements a socratic approach with curiosity triggers using AI agents.
+Prior art: [ExAge](https://github.com/meghana-gajendran/Exage) by [meghana-gajendran](https://github.com/meghana-gajendran) implements a Socratic approach with curiosity triggers using AI agents.
 
 Explore [thoughts on vocational learning](vocational-learning.md) for further possibilities.
 

@@ -1,3 +1,4 @@
+APIs
 Gita
 RaPa
 Ramanuja
@@ -13,6 +14,7 @@ Yashoda
 He
 he
 LLM
+LLMs
 Varaha
 Sriman
 Ranganatha
@@ -37,3 +39,6 @@ Tiruppavai
 sthitaprajnya
 vibed
 vibing
+Foucher
+Socratic
+Prahlad

@@ -109,8 +109,8 @@ Then experience the ease of [extending by refactoring](https://github.com/clean-
 
 - Split to simplify. Check the names - are the semantics close to reality?
 - Lower complexity = Simpler tests
-- Recognize "open to extension" across the software lifecycle
-- Evaluate multiple methods of splitting. Choose the one that has least semantic distance.
+- Map customer-need for being "open to extension" across the software lifecycle
+- Organize responsibility such that each part has least semantic distance to the customer-need.
 - Recognize open-close principle: Add new functionality by adding new code, rather than changing the legacy.
 - Till what point in development would you allow it to be open?
 
