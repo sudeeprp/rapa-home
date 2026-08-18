@@ -24,7 +24,7 @@ Design ways in which you can bring a 'recitation experience',
 so people can recite and get corrections. Example: [Learn Tiruppavai](https://youtu.be/kE6CQO8jhPQ?si=RXn_lFGgxqyjUWqA) is an example of Tamil recitation taught using Telugu script.
 However, YouTube videos lack the ability to listen to you and correct your pronunciation. That is the design problem here.
 
-Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech.
+Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech. And [Vadghenu](https://prathosh.in/vagdhenu), which does meter-aware recitation.
 
 ## `ExAge` Agent assisted exploration
 
@@ -34,7 +34,9 @@ After the first phase of any learning journey, it's tempting to feel that you kn
 
 Build a tool to discover the next set of questions - It can show you the next horizon, gain deeper understanding, or at least mechanical sympathy. Below is an LLM-friendly way of designing such a tool.
 
-Explore [thoughts on vocational learning](vocational-learning.md) for starting practical application.
+Prior art: [ExAge](https://github.com/meghana-gajendran/Exage) by [meghana-gajendran](https://github.com/meghana-gajendran) implements a socratic approach with curiosity triggers using AI agents.
+
+Explore [thoughts on vocational learning](vocational-learning.md) for further possibilities.
 
 ### Recognize a learner's boundaries
 
