@@ -13,7 +13,7 @@ Many of these are rare and published once. Scanned copies are available at sites
 
 The task is to extract text from the scanned pdf (OCR), correct it with a lexicon/LLM and standardize to IAST, so you can read it in any script.
 
-Explore [Sarvam AI's document digitization](https://dashboard.sarvam.ai/vision)
+Explore [Sarvam AI's document digitization](https://dashboard.sarvam.ai)
 
 ### Recite
 
@@ -24,7 +24,7 @@ Design ways in which you can bring a 'recitation experience',
 so people can recite and get corrections. Example: [Learn Tiruppavai](https://youtu.be/kE6CQO8jhPQ?si=RXn_lFGgxqyjUWqA) is an example of Tamil recitation taught using Telugu script.
 However, YouTube videos lack the ability to listen to you and correct your pronunciation. That is the design problem here.
 
-Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai/text-to-speech), which converts Indian-language text into speech. And [Vadghenu](https://prathosh.in/vagdhenu), which does meter-aware recitation.
+Explore [Sarvam AI's text-to-speech](https://dashboard.sarvam.ai), which converts Indian-language text into speech. And [Vadghenu](https://prathosh.in/vagdhenu), which does meter-aware recitation.
 
 ## `ExAge` Agent assisted exploration
 
