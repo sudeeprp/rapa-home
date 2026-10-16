@@ -5,6 +5,9 @@
     },
     {
       "pattern": "^https://sadagopan.org"
+    },
+    {
+      "pattern": "^https://dashboard.sarvam.ai"
     }
   ]
 }
