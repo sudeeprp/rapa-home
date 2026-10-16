@@ -5,9 +5,12 @@
     },
     {
       "pattern": "^https://sadagopan.org"
-    },
-    {
-      "pattern": "^https://dashboard.sarvam.ai"
     }
+  ],
+  "aliveStatusCodes": [
+    200,
+    301,
+    302,
+    403
   ]
 }
