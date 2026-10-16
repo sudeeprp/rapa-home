@@ -1,45 +1,30 @@
 # Vocational pedagogy
 
-- **Vocational** learning is about bridging gaps, so you can do and deliver.
+- **Vocational** learning is about skill in delivery.
 - **Pedagogy** is a method of teaching.
 
 Learning a vocation interleaves inquiry with practice.
 
-## Need in Software Engineering
+## Formation by Practice
 
-Previously, "doing" approximated "knowing" - which means you could apply that knowledge for another task.
+Engineering a learning experience:
 
-For example, if you could make a full-stack application, it meant you understood the technology (UI, HTTP, databases) sufficiently to recognize it in another context.
+- Reality: Seek the design-intent and principles behind tools and techniques
+- Relate to others: Commitment to flourish, earn trust
+- Relate to self: Participate in the bigger picture, discover the origin
 
-However, 'making' isn't the proof of 'understanding' anymore.
+## Continuous formative evaluation
 
-A new full-stack application can be 'vibed' without sufficient knowledge. However, every change thereafter requires more 'vibing' in narrower situations, resulting more trial-and-error cycles with lengthening lead-times.
+Design a tool that you can use to orient yourself in this direction, form habits and delight.
+Structure it to give a sense of completion, while showing that the journey of discovery is infinite.
 
-Learners often don't notice this. When the first iteration succeeds, they assume they've got what it takes - till the LLM brings something unexpected. Prompting out of every situation will take an unpredictable amount of time.
+## Things to avoid
 
-The area where they "don't know what they don't know" is going to limit them. The objective here is to expose those gaps and illustrate its consequences. Expect this to kindle curiosity, seek to bridge gaps and improve consistency.
-
-The approach to "exposing gaps" is via inquiry and inference.
-
-## Curiosity
-
-Take an example, where you've vibed some an application that reports on code repositories in an organization, using GitHub APIs and a UI framework. You want to take it to production and have real users use it.
-
-It may require different "modes of inquiry" to address the gaps between your understanding and the expertise to keep it running.
-
-Inquiry needs a curious mind. Anecdotes can kindle curiosity, by exposing consequences in the real world.
-
-Examples:
-
-- Relate to scale: Your application worked for an organization with 80 repositories. However, it hit rate-limits when it encountered 8000.
-- Synthetic audiences: A CTO found your report overwhelming, and struggled to figure out active vs unused repositories.
+Don't use generated artifacts as proxy for capabilities. Focus on agency - the ability to apply intent with forethought.
 
 ## Learning by inquiry
 
-- How to structure the inquiry towards a sense of completion?
-- Given that the user does not need to store+recall knowledge (LLMs are good at that), what gaps would be relevant to address?
-
-Mode of Inquiry | Typical question | GitHub API example | Can an LLM do this?
+Mode of Inquiry | Typical question | "Using GitHub API" example | Can an LLM do this?
 -- | -- | -- | --
 Knowledge | What do you know? | GitHub responses are paginated (100 items/page). Rate limits return HTTP 429 or rate-limit headers. | Yes
 Craft | What can you build? | Write Python code that follows Link headers, retries transient failures, and backs off on rate limits. | Yes
@@ -52,36 +37,3 @@ Mental Models | What assumptions are you making? | Notice that the code assumes 
 Pattern Language | What have you seen before, which is similar? | Recognize this as a recurring "paginated API", "producer-consumer", or "eventual consistency" pattern seen in many systems. | Yes
 Empathy | Who experiences the consequences? | Ask whether users care more about immediate freshness or dependable daily reports, and whether occasional missing data is acceptable. | Sometimes, if the intent is clear
 Epistemic Maturity | How confident should you be, and what would change your mind? | Say: "Assume the organization has fewer than 100 repositories. If that assumption is wrong, pagination becomes necessary." | Sometimes, if the context of the client is clear.
-Lived Experience (Tacit Knowledge) | What have you experienced that changes how you see this? | "Nightly sync jobs silently miss data for months because pagination was forgotten. It wasn't obvious because the organization was small at first." | No
-
-About the last column: What can't an AI do? It isn't good at shifting the ontology. That means- When it does not recognize the purpose, it will not reframe the problem. Examples-
-
-AI answers | AI doesn't
----|---
-How should I paginate GitHub? | Why am I scanning so many repos?
-Which retry policy is good here? | Why isn't this operation idempotent?
-Which locking mechanism would fit my code? | Why is there shared mutable state?
-
-## Artifact and the Learner
-
-[Loop engineering](https://x.com/AndrewYNg/status/2071988145667928442) is about improving the artifact - agentic development loop, a developer feedback loop, external (user) feedback loop.
-
-What are you taking with you in these loops? That depends on your intent. Here is a sample mapping of different intents in the above repository-reporter example:
-
-Your intent | Your take-away
----|---
-Demonstrate report generation | Report format
-Reliability | Risks - What can go wrong in API calls
-Surface actionable insights | Team-level development dynamics
-Discover new techniques | Learn
-Avoid risks | Manage with existing
-
-## Out of scope
-
-These items are invaluable in learning, yet uncontrollable:
-
-- Lived experiences
-- Collaborative development
-- Inspiration from mentors and peers
-
-They are out of scope of this project for now.

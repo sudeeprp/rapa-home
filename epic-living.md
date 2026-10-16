@@ -78,3 +78,9 @@ And the skeleton:
 The demon Hiranyakashipu resides within everyone as greed, anxiety, fear, anger, hesitation and other distractions. They demand attention at the cost of purpose. Let Narasimha free you!
 
 [![Narasimha](https://img.youtube.com/vi/3LkdWJNykSs/0.jpg)](https://www.youtube.com/watch?v=3LkdWJNykSs)
+
+## Yashoda in awe again
+
+Mischievous Krishna showing off his Universe again:
+
+[![taayige-baayalli](https://img.youtube.com/vi/Cvb5J9SfmWA/0.jpg)](https://www.youtube.com/shorts/Cvb5J9SfmWA)

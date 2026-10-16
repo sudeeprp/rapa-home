@@ -6,8 +6,7 @@
 
 As Sanjaya says, [Krishna's Gita is marvelous and stimulating](https://rapalearning.github.io/gita-begin/gita/18-74.html). Naturally, you would want to share it with everyone.
 
-However, Krishna mentions a few qualities that disqualify a person from receiving the Gita.
-He lists them in [this Shloka](https://rapalearning.github.io/gita-begin/gita/18-67.html). Summary-
+Krishna says that the Gita is not meant for [these types of detractors](https://rapalearning.github.io/gita-begin/gita/18-67.html):
 
 - It's not for someone who doesn't take the effort to practice.
 - It's not for those who aren't devoted to Krishna and don't appreciate the carriers of such awareness.
