@@ -9,7 +9,7 @@ Use it as a working synthesis, not as settled doctrine. Several ideas below are 
 ## 1. Starting point: "just doing" is no longer enough
 
 Not as evidence of learning. Not as human value either.
-When the required outcome is well-defined, "doing" the work can be automated.
+When the required outcome is well-defined, an automation could "do" it.
 
 Then, what value do you add? How do you train for it?
 
@@ -25,7 +25,7 @@ Our "understanding" needs to reach deeper. But then what's "deeper"?
 
 ## 3. From knowledge gaps to modes of inquiry
 
-Between "what", "how", and "why"
+Between what, how, and why
 
 You learn a tool by asking what it does, and how to use it. Asking "why did someone make it?" can tell you whether it would be effective in your situation. This is "design intent"
 
@@ -122,7 +122,7 @@ Integrity is alignment among:
 
 ## 9. The project
 
-There are two connected but distinct projects.
+Two connected but distinct projects.
 
 ### Project A: An AI-assisted vocational-learning tool
 
@@ -165,7 +165,7 @@ These are starting points for research, not a claim that every author endorses t
 - **Peter Senge:** personal mastery and the tension between vision and current reality.
 - **Gregory Bateson:** levels of learning.
 - **Piaget:** assimilation and accommodation.
-- **Constructivism, analogical reasoning, schema abstraction, conceptual change, and transfer of learning:** how prior understanding is reused and reorganized.
+- **Constructivism, analogical reasoning, schema abstraction, conceptual change, and transfer of learning:** how reuse & reorganization happen with prior understanding.
 - **Robert Selman:** perspective-taking development.
 - **Carl Rogers:** empathic understanding and respect for the other person's subjective experience.
 - **Role-taking literature:** links among perspective-taking, empathy, and self-understanding.
