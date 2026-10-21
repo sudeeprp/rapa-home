@@ -1,14 +1,14 @@
-# Project Context: Formation Through Practice
+# Formation Through Practice
 
 ## Purpose of this document
 
 Vocational learning in the AI era. What's valuable to learn, and how to teach it?
 
-Use it as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test.
+Use this as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test.
 
 ## 1. Starting point: "just doing" is no longer enough
 
-Not as evidence of learning. Not as human value either.
+Not as evidence of learning. Not as human value either:
 When the required outcome is well-defined, an automation could "do" it.
 
 Then, what value do you add? How do you train for it?
@@ -51,28 +51,28 @@ A fundamental principle is not merely a vaguer or broader statement. It should r
 
 ## 5. Intent, attention, and framing
 
-The abstractions people notice and transfer depend partly on what they are trying to achieve. The same engineering choice—such as keeping a design simple—can arise from very different motives:
+The abstractions that people notice and transfer depend partly on what they are trying to achieve. The same engineering choice—such as keeping a design simple—can arise from very different motives:
 
-- learning what users actually need before committing;
-- fear of unfamiliar infrastructure;
-- a short deadline;
-- a desire for recognition;
-- concern for maintainability or operational cost.
+- Learning what users actually need before committing;
+- Fear of unfamiliar infrastructure;
+- A short deadline;
+- A desire for recognition;
+- Concern for maintainability or operational cost.
 
 Therefore, the outward action alone does not reveal its generator. “I optimize for reversibility” describes a strategy tendency; it does not explain the deeper motivation behind it.
 
-## 6. Self-discovery as part of the work, not an after-action exercise
+## 6. Self-discovery as part of the work
 
-The conversation moved away from treating self-discovery as a separate retrospective activity. The artifact and the ongoing work can expose:
+Discovering something within me lets it endure beyond the work being done. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
 
-- gaps in understanding;
-- assumptions about the world;
-- habitual ways of framing problems;
-- fears, attachments, or avoidance;
-- what one cares about;
-- the purposes one wants to serve.
+- Gaps in understanding;
+- Assumptions about the world;
+- Habitual ways of framing problems;
+- Fears, attachments, or avoidance;
+- What one cares about;
+- The purposes one wants to serve.
 
-The key question became:
+The key question becomes:
 
 > What do I take for myself from this experience, to carry into the next situation?
 
@@ -88,17 +88,17 @@ In every activity, keep three concerns alive:
 
 Acknowledge that:
 
-- understanding is always partial;
-- consequences may be unforeseen;
-- reality can contradict elegant designs and confident explanations;
-- failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
+- Understanding is always partial;
+- Consequences may be unforeseen;
+- Reality can contradict elegant designs and confident explanations;
+- Failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
 
 ### 2. Building well-wishers: Nurture people to flourish through trust
 
 **Mode of inquiry:** Who can work or live better because of this, and how do I build trust?
 
-This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences. Empathy without discernment can become people-pleasing;
-concern for others must remain answerable to reality and purpose.
+This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences.
+Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
 
 ### 3. Self-formation: Seek enduring, transferable understanding
 
@@ -106,19 +106,19 @@ concern for others must remain answerable to reality and purpose.
 
 A journey of “uplifting”:
 
-- move from incidents and local solutions toward mechanisms, constraints, and generative principles;
-- seek explanations that transfer to other domains;
-- notice and relinquish unnecessary assumptions or fixations;
-- carry forward a refined way of seeing, not just another recipe.
+- Move from incidents and local solutions toward mechanisms, constraints, and generative principles;
+- Seek explanations that transfer to other domains;
+- Notice and relinquish unnecessary assumptions or fixations;
+- Carry forward a refined way of seeing, not just another recipe.
 
 ## 8. Integrity as alignment
 
 Integrity is alignment among:
 
-- what reality permits or requires;
-- what nurtures people;
-- what the practitioner intends;
-- what the artifact actually does.
+- What reality permits or requires;
+- What nurtures people;
+- What the practitioner intends;
+- What the artifact actually does.
 
 ## 9. The project
 
