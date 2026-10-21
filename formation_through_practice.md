@@ -4,14 +4,14 @@
 
 Vocational learning in the AI era. What's valuable to learn, and how to teach it?
 
-Use it as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test—not claims that have already been proven.
+Use it as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test.
 
 ## 1. Starting point: "just doing" is no longer enough
 
 Not as evidence of learning. Not as human value either.
-When the required outcome is clear, "doing" the work is automatable.
+When the required outcome is well-defined, "doing" the work can be automated.
 
-So what value do you add? How do you train for it?
+Then, what value do you add? How do you train for it?
 
 ## 2. Traditional approaches in times of AI agents
 
@@ -21,13 +21,13 @@ Then is "understanding" the key?
 
 LLMs can recall facts, apply familiar patterns, and sometimes reason from first principles. Therefore, simply teaching people to remember facts or imitate expert application is insufficient.
 
-So "understanding" needs to reach deeper, but then what's "deeper"?
+Our "understanding" needs to reach deeper. But then what's "deeper"?
 
 ## 3. From knowledge gaps to modes of inquiry
 
-Between "what", "how", and "why":
+Between "what", "how", and "why"
 
-You learn a tool by asking what it does, and how to use it. Asking "why it was made" can tell you whether it would be effective in your situation. This is "design intent"
+You learn a tool by asking what it does, and how to use it. Asking "why did someone make it?" can tell you whether it would be effective in your situation. This is "design intent"
 
 **Inquiry modes** - a practical inventory
 
@@ -82,7 +82,7 @@ The answer might be a more generative model, a recognized assumption, a newly av
 
 In every activity, keep three concerns alive:
 
-### 1. Reality — expand my interpretation
+### 1. Reality: Expand my interpretation
 
 **Mode of inquiry:** What is reality teaching me that my current model cannot yet explain?
 
@@ -93,14 +93,14 @@ Acknowledge that:
 - reality can contradict elegant designs and confident explanations;
 - failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
 
-### 2. Building well-wishers — nurture people to flourish through trust
+### 2. Building well-wishers: Nurture people to flourish through trust
 
 **Mode of inquiry:** Who can work or live better because of this, and how do I build trust?
 
 This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences. Empathy without discernment can become people-pleasing;
 concern for others must remain answerable to reality and purpose.
 
-### 3. Self-formation — seek enduring, transferable understanding
+### 3. Self-formation: Seek enduring, transferable understanding
 
 **Mode of inquiry:** What do I take back for myself from this experience?
 
@@ -113,7 +113,7 @@ A journey of “uplifting”:
 
 ## 8. Integrity as alignment
 
-Integrity was reframed not primarily as a fourth lens, but as a form of alignment among:
+Integrity is alignment among:
 
 - what reality permits or requires;
 - what nurtures people;
@@ -122,15 +122,15 @@ Integrity was reframed not primarily as a fourth lens, but as a form of alignmen
 
 ## 9. The project
 
-Two connected but distinct projects were identified.
+There are two connected but distinct projects.
 
-### Project A — An AI-assisted vocational-learning tool
+### Project A: An AI-assisted vocational-learning tool
 
-**Question:** How can an AI-assisted learning experience map a learner's path of discovery - without becoming an interrogation?
+**Question:** How can an AI-assisted learning experience map a learner's path of discovery, without becoming an interrogation?
 
-This aids continuous evaluation by the learners themselves, and give direction towards the next step.
+This aids continuous evaluation by the learners themselves. It gives direction towards the next step.
 
-### Project B — What vocational education should cultivate in the AI era
+### Project B: What vocational education should cultivate in the AI era
 
 **Question:** What should education aim to form when AI can increasingly produce artifacts and apply established expertise?
 
@@ -144,8 +144,8 @@ Likely topics:
 ## 10. Implementation challenges
 
 1. **Fundamental principles:** How can learners distinguish generative principles from vague generalizations? Test explanatory power, prediction, transfer, and boundary conditions.
-2. **Empathy/self-awareness reciprocity:** Can this be formalized and cultivated through collaboration on a shared artifact?
-3. **Integrity/alignment:** Is alignment a condition, a process, an emergent property, or an ideal? How can it be recognized without turning it into a checklist?
+2. **Empathy/self-awareness reciprocity:** Can learners cultivate this by collaborating on shared artifacts?
+3. **Integrity/alignment:** Is alignment a condition, a process, an emergent property, or an ideal? How can learners recognize it, without turning it into a checklist?
 4. **Fixation and insight:** When does relinquishing an assumption reveal a better representation, and when is it merely abandoning a valid constraint?
 5. **Anti-sloppiness:** Reality-orientation, care for others, and self-formation may not by themselves ensure careful execution. How should professional standards, verification, and respect for the artifact fit in, especially as execution becomes automated?
 6. **Assessment:** How can the learning tool detect actual development in a learner's habits of inquiry rather than reward polished self-reports or compliance with prompts?
