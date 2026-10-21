@@ -6,7 +6,7 @@ Vocational learning in the AI era. What's valuable to learn, and how to teach it
 
 Use it as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test—not claims that have already been proven.
 
-## 1. Starting point: "just doing" is no longer enough.
+## 1. Starting point: "just doing" is no longer enough
 
 Not as evidence of learning. Not as human value either.
 When the required outcome is clear, "doing" the work is automatable.
@@ -52,6 +52,7 @@ A fundamental principle is not merely a vaguer or broader statement. It should r
 ## 5. Intent, attention, and framing
 
 The abstractions people notice and transfer depend partly on what they are trying to achieve. The same engineering choice—such as keeping a design simple—can arise from very different motives:
+
 - learning what users actually need before committing;
 - fear of unfamiliar infrastructure;
 - a short deadline;
@@ -63,6 +64,7 @@ Therefore, the outward action alone does not reveal its generator. “I optimize
 ## 6. Self-discovery as part of the work, not an after-action exercise
 
 The conversation moved away from treating self-discovery as a separate retrospective activity. The artifact and the ongoing work can expose:
+
 - gaps in understanding;
 - assumptions about the world;
 - habitual ways of framing problems;
@@ -85,6 +87,7 @@ In every activity, keep three concerns alive:
 **Mode of inquiry:** What is reality teaching me that my current model cannot yet explain?
 
 Acknowledge that:
+
 - understanding is always partial;
 - consequences may be unforeseen;
 - reality can contradict elegant designs and confident explanations;
@@ -94,13 +97,15 @@ Acknowledge that:
 
 **Mode of inquiry:** Who can work or live better because of this, and how do I build trust?
 
-This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences. Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
+This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences. Empathy without discernment can become people-pleasing;
+concern for others must remain answerable to reality and purpose.
 
 ### 3. Self-formation — seek enduring, transferable understanding
 
 **Mode of inquiry:** What do I take back for myself from this experience?
 
 A journey of “uplifting”:
+
 - move from incidents and local solutions toward mechanisms, constraints, and generative principles;
 - seek explanations that transfer to other domains;
 - notice and relinquish unnecessary assumptions or fixations;
@@ -109,6 +114,7 @@ A journey of “uplifting”:
 ## 8. Integrity as alignment
 
 Integrity was reframed not primarily as a fourth lens, but as a form of alignment among:
+
 - what reality permits or requires;
 - what nurtures people;
 - what the practitioner intends;
@@ -129,6 +135,7 @@ This aids continuous evaluation by the learners themselves, and give direction t
 **Question:** What should education aim to form when AI can increasingly produce artifacts and apply established expertise?
 
 Likely topics:
+
 - structural transfer;
 - problem framing and cognitive orchestration;
 - intent, attention, and self-awareness;
@@ -146,12 +153,13 @@ Likely topics:
 ## References
 
 These are starting points for research, not a claim that every author endorses the complete framework:
+
 - **John Dewey:** reflective thought, inquiry, experience, education and growth.
 - **Donald Schön:** reflection-in-action and reflection-on-action in professional practice.
 - **David Kolb:** experiential learning cycle.
 - **Jack Mezirow:** transformative learning and revision of frames of reference.
 - **Jean Lave and Etienne Wenger:** situated learning, communities of practice, identity through participation.
-- **Aristotle:** virtue, habituation, practical wisdom (*phronesis*).
+- **Aristotle:** virtue, habituation, practical wisdom (_phronesis_).
 - **Alasdair MacIntyre:** practices, internal goods, standards of excellence.
 - **Chris Argyris:** espoused theory vs. theory-in-use; double-loop learning.
 - **Peter Senge:** personal mastery and the tension between vision and current reality.
@@ -161,4 +169,4 @@ These are starting points for research, not a claim that every author endorses t
 - **Robert Selman:** perspective-taking development.
 - **Carl Rogers:** empathic understanding and respect for the other person's subjective experience.
 - **Role-taking literature:** links among perspective-taking, empathy, and self-understanding.
-- **Richard Sennett, *The Craftsman*; Matthew Crawford, *Shop Class as Soulcraft*; David Pye:** workmanship, craft, and the relation between doing and judgment.
+- **Richard Sennett, _The Craftsman_; Matthew Crawford, _Shop Class as Soulcraft_; David Pye:** workmanship, craft, and the relation between doing and judgment.
