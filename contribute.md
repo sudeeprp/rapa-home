@@ -36,7 +36,7 @@ Build a tool to discover the next set of questions - It can show you the next ho
 
 Prior art: [ExAge](https://github.com/meghana-gajendran/Exage) by [meghana-gajendran](https://github.com/meghana-gajendran) implements a Socratic approach with curiosity triggers using AI agents.
 
-Explore [thoughts on vocational learning](vocational-learning.md) for further possibilities.
+Explore [thoughts on vocational learning](formation_through_practice.md) for further possibilities.
 
 ### Recognize a learner's boundaries
 
