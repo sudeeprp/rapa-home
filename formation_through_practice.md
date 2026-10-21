@@ -63,7 +63,7 @@ Therefore, the outward action alone does not reveal its generator. “I optimize
 
 ## 6. Self-discovery as part of the work
 
-Discovering something within me lets it endure beyond the work being done. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
+Discovering something within me lets it endure beyond the present. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
 
 - Gaps in understanding;
 - Assumptions about the world;
