@@ -8,14 +8,15 @@ Use this as a working synthesis, not as settled doctrine. Several ideas below ar
 
 ## 1. Starting point: "just doing" is no longer enough
 
-Not as evidence of learning. Not as human value either:
+Just doing an assignment isn't evidence of learning. It isn't likely to add human value either.
 When the required outcome is well-defined, an automation could "do" it.
 
 Then, what value do you add? How do you train for it?
+How do you evaluate, to ensure that you trained well?
 
 ## 2. Traditional approaches in times of AI agents
 
-Historically, successfully writing something (prose, code) was evidence that the writer can apply that knowledge. AI-agents weaken this link: the outcome can become 'good enough' before its author understands it.
+Historically, writing something (prose, code) was evidence that the writer can apply that knowledge. AI-agents weaken this link: the outcome can become 'good enough' before its author understands it.
 
 Then is "understanding" the key?
 
@@ -59,11 +60,11 @@ The abstractions that people notice and transfer depend partly on what they are 
 - A desire for recognition;
 - Concern for maintainability or operational cost.
 
-Therefore, the outward action alone does not reveal its generator. “I optimize for reversibility” describes a strategy tendency; it does not explain the deeper motivation behind it.
+Therefore, the outward action alone does not reveal its generator, or the ability to apply it when required.
 
 ## 6. Self-discovery as part of the work
 
-Discovering something within me lets it endure beyond the present. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
+Internalizing something lets it endure beyond the present. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
 
 - Gaps in understanding;
 - Assumptions about the world;
@@ -72,11 +73,7 @@ Discovering something within me lets it endure beyond the present. It's not a se
 - What one cares about;
 - The purposes one wants to serve.
 
-The key question becomes:
-
-> What do I take for myself from this experience, to carry into the next situation?
-
-The answer might be a more generative model, a recognized assumption, a newly available way of seeing.
+The answer might be a more generative model, a recognized assumption, a new way of seeing.
 
 ## 7. A working three-part orientation for every activity
 
