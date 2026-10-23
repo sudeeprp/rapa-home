@@ -1,30 +1,28 @@
-# Formation Through Practice
+# Formation through practice
 
 ## Purpose of this document
 
 Vocational learning in the AI era. What's valuable to learn, and how to teach it?
 
-Use this as a working synthesis, not as settled doctrine. Several ideas below are hypotheses to examine, refine, and test.
-
-## 1. Starting point: "just doing" is no longer enough
-
-Just doing an assignment isn't evidence of learning. It isn't likely to add human value either.
-When the required outcome is well-defined, an automation could "do" it.
+Doing assignments and answering questions isn't evidence of learning anymore.
+When the required outcome is well-defined, the expertise required to "do it" is minimal.
 
 Then, what value do you add? How do you train for it?
 How do you evaluate, to ensure that you trained well?
 
-## 2. Traditional approaches in times of AI agents
+Use the possibilities and challenges presented here as a working synthesis. They aren't settled doctrines. The ideas below are hypotheses to examine, refine, and test.
+
+## 1. Traditional approaches in times of AI agents
 
 Historically, writing something (prose, code) was evidence that the writer can apply that knowledge. AI-agents weaken this link: the outcome can become 'good enough' before its author understands it.
 
 Then is "understanding" the key?
 
-LLMs can recall facts, apply familiar patterns, and sometimes reason from first principles. Therefore, simply teaching people to remember facts or imitate expert application is insufficient.
+LLMs can recall facts, apply familiar patterns, and sometimes reason from first principles. A human "understanding" to remember facts or imitate expert application may not add value.
 
-Our "understanding" needs to reach deeper. But then what's "deeper"?
+Human understanding needs to reach deeper. But then what's "deeper"?
 
-## 3. From knowledge gaps to modes of inquiry
+## 2. From knowledge gaps to modes of inquiry
 
 Between what, how, and why
 
@@ -37,20 +35,20 @@ You learn a tool by asking what it does, and how to use it. Asking "why did some
 - _Epistemic maturity_: How confident should I be, and what would change my mind? What assumptions am I making?
 - _Empathy_: How do users flourish with the product?
 
-Example shift in inquiry:
+Example _evaluation_ of a shift in inquiry:
 
-- From: “How do we get patients to comply with their treatment?”
+- From: “How do we get patients to follow their treatment?”
 - To: “What makes this treatment hard to follow in their lives?”
 
 The shift: From jumping to fix non-compliance to investigating the patient's reality.
 
-## 4. Structural transfer and fundamental principles
+## 3. Structural transfer and fundamental principles
 
 A durable capability is the ability to recognize fundamental principles across different domains and transfer understanding without assuming that surface similarities imply identical solutions.
 
-A fundamental principle is not merely a vaguer or broader statement. It should reveal causal structure, constraints, invariants, or generative relationships.
+_Evaluation_: A fundamental principle is not merely a vaguer or broader statement. It should reveal causal structure, constraints, invariants, or generative relationships.
 
-## 5. Intent, attention, and framing
+## 4. Intent, attention, and framing
 
 The abstractions that people notice and transfer depend partly on what they are trying to achieve. The same engineering choice—such as keeping a design simple—can arise from very different motives:
 
@@ -60,9 +58,9 @@ The abstractions that people notice and transfer depend partly on what they are 
 - A desire for recognition;
 - Concern for maintainability or operational cost.
 
-Therefore, the outward action alone does not reveal its generator, or the ability to apply it when required.
+Hence, the _challenge_: An outward action alone does not reveal its generator, or the ability to apply it when required.
 
-## 6. Self-discovery as part of the work
+## 5. Self-discovery as part of the work
 
 Internalizing something lets it endure beyond the present. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
 
@@ -75,11 +73,11 @@ Internalizing something lets it endure beyond the present. It's not a separate r
 
 The answer might be a more generative model, a recognized assumption, a new way of seeing.
 
-## 7. A working three-part orientation for every activity
+## 6. A working three-part orientation for every activity
 
 In every activity, keep three concerns alive:
 
-### 1. Reality: Expand my interpretation
+### 6.1. Reality: Expand my interpretation
 
 > What is reality teaching me that my current model cannot yet explain?
 
@@ -90,14 +88,15 @@ Acknowledge that:
 - Reality can contradict elegant designs and confident explanations;
 - Failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
 
-### 2. Building well-wishers: Nurture people to flourish through trust
+### 6.2. Building well-wishers: Nurture people to flourish through trust
 
 > Who can work or live better because of this, and how do I build trust?
 
 This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences.
+
 Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
 
-### 3. Self-formation: Seek enduring, transferable understanding
+### 6.3. Self-formation: Seek enduring, transferable understanding
 
 > What do I take back for myself from this experience?
 
@@ -108,7 +107,7 @@ A journey of “uplifting”:
 - Notice and relinquish unnecessary assumptions or fixations;
 - Carry forward a refined way of seeing, not just another recipe.
 
-## 8. Integrity as alignment
+## 7. Integrity as alignment
 
 Integrity is alignment among:
 
@@ -117,7 +116,7 @@ Integrity is alignment among:
 - What the practitioner intends;
 - What the artifact actually does.
 
-## 9. The project
+## 8. Opportunity
 
 Two connected but distinct projects.
 
@@ -138,9 +137,9 @@ Likely topics:
 - intent, attention, and self-awareness;
 - integrity/alignment among reality, people, and self.
 
-## 10. Implementation challenges
+## 9. Implementation challenges
 
-1. **Fundamental principles:** How can learners distinguish generative principles from vague generalizations? Test explanatory power, prediction, transfer, and boundary conditions.
+1. **Fundamental principles:** How can learners distinguish generative principles from vague generalizations? Test explanatory power, prediction, transfer, and boundary conditions?
 2. **Empathy/self-awareness reciprocity:** Can learners cultivate this by collaborating on shared artifacts?
 3. **Integrity/alignment:** Is alignment a condition, a process, an emergent property, or an ideal? How can learners recognize it, without turning it into a checklist?
 4. **Fixation and insight:** When does relinquishing an assumption reveal a better representation, and when is it merely abandoning a valid constraint?
@@ -149,7 +148,7 @@ Likely topics:
 
 ## References
 
-These are starting points for research, not a claim that every author endorses the complete framework:
+These are starting points for research, not a claim that every author endorses the framework:
 
 - **John Dewey:** reflective thought, inquiry, experience, education and growth.
 - **Donald Schön:** reflection-in-action and reflection-on-action in professional practice.
