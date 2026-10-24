@@ -44,7 +44,7 @@ The shift: From assuming we understand the problem to exploring the patient's re
 
 ## 3. Structural transfer and fundamental principles
 
-A durable capability is the ability to recognize fundamental principles across different domains and transfer understanding without assuming that surface similarities imply identical solutions.
+A durable capability is to recognize fundamental principles across different domains. We can then transfer that understanding without assuming that surface similarities imply identical solutions.
 
 _Evaluation_: A fundamental principle is not merely a vaguer or broader statement. It should reveal causal structure, constraints, invariants, or generative relationships.
 
