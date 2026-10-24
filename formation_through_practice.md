@@ -40,7 +40,7 @@ Example _evaluation_ of a shift in inquiry:
 - From: “How do we get patients to follow their treatment?”
 - To: “Why do they miss the treatment regimen? What would work, and how would we know when we’re wrong?”
 
-The shift: From assuming we understand the problem to exploring the patient's reality and enabling their flourishing.
+The shift: From assuming we understand the problem to exploring the patient's reality to enable their flourishing.
 
 ## 3. Structural transfer and fundamental principles
 
