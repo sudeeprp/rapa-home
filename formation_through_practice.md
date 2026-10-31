@@ -4,11 +4,11 @@
 
 Vocational learning in the AI era. What's valuable to learn, and how to teach it?
 
-Doing assignments and answering questions isn't evidence of learning anymore.
+Assignments and question-answers aren't evidence of learning anymore.
 When the required outcome is well-defined, the expertise required to "do it" is minimal.
 
 Then, what value do you add? How do you train for it?
-How do you evaluate, to ensure that you trained well?
+How do you evaluate, to ensure you trained well?
 
 Use the possibilities and challenges presented here as a working synthesis. They aren't settled doctrines. The ideas below are hypotheses to examine, refine, and test.
 
@@ -21,34 +21,91 @@ Then is "understanding" the key?
 LLMs can recall facts, apply familiar patterns, and sometimes reason from first principles. A human "understanding" to remember facts or imitate expert application may not add value.
 
 Human understanding needs to reach deeper. But then what's "deeper"?
+What's the shift we would like to see?
 
-## 2. From knowledge gaps to modes of inquiry
+## 2. The shift
 
-Between what, how, and why
+Deeper understanding needs to reflect a visible shift in approach. Here is an example of such a shift.
 
-You learn a tool by asking what it does, and how to use it. Asking "why did someone make it?" can tell you whether it would be effective in your situation. This is "design intent"
+Take the problem of patients missing their treatment regimen.
+What is a typical response, and what do we want to move towards?
 
-**Inquiry modes** - a practical inventory
-
-- _Design intent_: Why was it designed this way? Will it sustain in my context?
-- _Mechanistic understanding_: How does it work? What does it depend on? What impact does it have?
-- _Epistemic maturity_: How confident should I be, and what would change my mind? What assumptions am I making?
-- _Empathy_: How do users flourish with the product?
-
-Example _evaluation_ of a shift in inquiry:
-
-- From: “How do we get patients to follow their treatment?”
+- From the typical: “Make a product that gets patients to follow their treatment”
 - To: “Why do they miss the treatment regimen? What would work, and how would we know when we’re wrong?”
 
-The shift: From assuming we understand the problem to exploring the patient's reality and enable their flourishing.
+_Evaluating_ the shift: From assuming we understand the problem to exploring the patient's reality, enable their flourishing, and sustain value.
 
-## 3. Structural transfer and fundamental principles
+Submission: In the absence of such a shift, the resulting work 'specification' can be done by an automation.
 
-A durable capability is to recognize fundamental principles across different domains. We can then transfer that understanding without assuming that surface similarities imply identical solutions.
+## 3. A working model for every activity
+
+What would be the "deeper understanding" that brings such a shift?
+
+Here are three parts of the journey. Keep them alive in every activity.
+
+### 3.1. Reality: Expand my interpretation
+
+> What is reality teaching me that my current model cannot yet explain?
+
+Acknowledge that:
+
+- Understanding is always partial;
+- Consequences may be unforeseen;
+- Reality can contradict elegant designs and confident explanations;
+- Failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
+
+### 3.2. Building well-wishers: Nurture people to flourish through trust
+
+> Who can work or live better because of this, and how do I build trust?
+
+This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences.
+
+Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
+
+### 3.3. Self-formation: Seek enduring, transferable understanding
+
+> What do I take back for myself from this experience?
+
+A journey of “uplifting”:
+
+- Move from incidents and local solutions toward mechanisms, constraints, and generative principles;
+- Seek explanations that transfer to other domains;
+- Notice and relinquish unnecessary assumptions or fixations;
+- Carry forward a refined way of seeing, not just another recipe.
+
+## 4. Integrity as alignment
+
+Integrity is alignment among:
+
+- What reality permits or requires;
+- What nurtures people;
+- What you intend;
+- What the artifact actually does.
+- What you're working towards
+
+## 5. Opportunity
+
+Two connected but distinct projects.
+
+### Project A: An AI-assisted vocational-learning tool
+
+**Question:** How can an AI-assisted learning experience map a learner's path of discovery, without becoming an interrogation? What inputs would it need?
+
+This aids continuous evaluation by the learners themselves. It gives direction towards the next step.
+
+### Project B: What vocational education should cultivate in the AI era
+
+**Question:** What should education aim to form when AI can increasingly produce artifacts and apply established expertise?
+
+Likely topics:
+
+**B.1** Structural transfer and fundamental principles
+
+A durable capability is to recognize fundamental principles across different domains. You can then transfer that understanding without assuming that surface similarities imply identical solutions.
 
 _Evaluation_: A fundamental principle is not merely a vaguer or broader statement. It should reveal causal structure, constraints, invariants, or generative relationships.
 
-## 4. Intent, attention, and framing
+**B.2** Intent, attention, and framing
 
 The abstractions that people notice and transfer depend partly on what they are trying to achieve. The same engineering choice—such as keeping a design simple—can arise from very different motives:
 
@@ -60,11 +117,11 @@ The abstractions that people notice and transfer depend partly on what they are 
 
 Hence, the _challenge_: An outward action alone does not reveal its generator, or the ability to apply it when required.
 
-## 5. Self-discovery as part of the work
+**B.3** Self-discovery as part of the work
 
 Internalizing something lets it endure beyond the present. It's not a separate retrospective activity. The artifact and the ongoing work can expose:
 
-- Gaps in understanding;
+- Discovering a gap;
 - Assumptions about the world;
 - Habitual ways of framing problems;
 - Fears, attachments, or avoidance;
@@ -73,71 +130,7 @@ Internalizing something lets it endure beyond the present. It's not a separate r
 
 The answer might be a more generative model, a recognized assumption, a new way of seeing.
 
-## 6. A working three-part orientation for every activity
-
-In every activity, keep three concerns alive:
-
-### 6.1. Reality: Expand my interpretation
-
-> What is reality teaching me that my current model cannot yet explain?
-
-Acknowledge that:
-
-- Understanding is always partial;
-- Consequences may be unforeseen;
-- Reality can contradict elegant designs and confident explanations;
-- Failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
-
-### 6.2. Building well-wishers: Nurture people to flourish through trust
-
-> Who can work or live better because of this, and how do I build trust?
-
-This is broader than satisfying immediate user requests. It involves understanding people's actual circumstances, enabling their agency, and caring about consequences.
-
-Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
-
-### 6.3. Self-formation: Seek enduring, transferable understanding
-
-> What do I take back for myself from this experience?
-
-A journey of “uplifting”:
-
-- Move from incidents and local solutions toward mechanisms, constraints, and generative principles;
-- Seek explanations that transfer to other domains;
-- Notice and relinquish unnecessary assumptions or fixations;
-- Carry forward a refined way of seeing, not just another recipe.
-
-## 7. Integrity as alignment
-
-Integrity is alignment among:
-
-- What reality permits or requires;
-- What nurtures people;
-- What the practitioner intends;
-- What the artifact actually does.
-
-## 8. Opportunity
-
-Two connected but distinct projects.
-
-### Project A: An AI-assisted vocational-learning tool
-
-**Question:** How can an AI-assisted learning experience map a learner's path of discovery, without becoming an interrogation?
-
-This aids continuous evaluation by the learners themselves. It gives direction towards the next step.
-
-### Project B: What vocational education should cultivate in the AI era
-
-**Question:** What should education aim to form when AI can increasingly produce artifacts and apply established expertise?
-
-Likely topics:
-
-- structural transfer;
-- problem framing and cognitive orchestration;
-- intent, attention, and self-awareness;
-- integrity/alignment among reality, people, and self.
-
-## 9. Implementation challenges
+## 6. Implementation challenges
 
 1. **Fundamental principles:** How can learners distinguish generative principles from vague generalizations? Test explanatory power, prediction, transfer, and boundary conditions?
 2. **Empathy/self-awareness reciprocity:** Can learners cultivate this by collaborating on shared artifacts?
