@@ -18,7 +18,7 @@ Historically, writing something (prose, code) was evidence that the writer can a
 
 Then is "understanding" the key?
 
-LLMs can recall facts, apply familiar patterns, and sometimes reason from first principles. A human "understanding" to remember facts or imitate expert application may not add value.
+LLMs can recall facts, automatically apply familiar patterns, and sometimes reason from first principles. A human "understanding" to remember facts or imitate expert application may not add value.
 
 Human understanding needs to reach deeper. But then what's "deeper"?
 What's the shift we would like to see?
@@ -35,7 +35,7 @@ What is a typical response, and what do we want to move towards?
 
 _Evaluating_ the shift: From assuming we understand the problem to exploring the patient's reality, enable their flourishing, and sustain value.
 
-Submission: In the absence of such a shift, the resulting work 'specification' can be done by an automation.
+Submission: In the absence of such a shift, an automation would be able to satisfy the specification.
 
 ## 3. A working model for every activity
 
