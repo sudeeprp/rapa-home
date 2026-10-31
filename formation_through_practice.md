@@ -28,7 +28,7 @@ What's the shift we would like to see?
 Deeper understanding needs to reflect a visible shift in approach. Here is an example of such a shift.
 
 Take the problem of patients missing their treatment regimen.
-What is a typical response, and what do we want to move towards?
+What is a typical approach, and what do we want to move towards?
 
 - From the typical: “Make a product that gets patients to follow their treatment”
 - To: “Why do they miss the treatment regimen? What would work, and how would we know when we’re wrong?”
@@ -41,7 +41,7 @@ Submission: In the absence of such a shift, an automation would be able to satis
 
 What would be the "deeper understanding" that brings such a shift?
 
-Here are three parts of the journey. Keep them alive in every activity.
+Here are three parts of the journey. Practice them in every activity.
 
 ### 3.1. Reality: Expand my interpretation
 
