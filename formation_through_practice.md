@@ -43,7 +43,7 @@ What would be the "deeper understanding" that brings such a shift?
 
 Here are three parts of the journey. Practice them in every activity.
 
-### 3.1. Reality: Expand my interpretation
+### 3.1 Reality: Expand my interpretation
 
 > What is reality teaching me that my current model cannot yet explain?
 
@@ -54,7 +54,7 @@ Acknowledge that:
 - Reality can contradict elegant designs and confident explanations;
 - Failures, invariants, mechanisms, design intent, and other perspectives can refine the model.
 
-### 3.2. Building well-wishers: Nurture people to flourish through trust
+### 3.2 Building well-wishers: Nurture people to flourish through trust
 
 > Who can work or live better because of this, and how do I build trust?
 
@@ -62,7 +62,7 @@ This is broader than satisfying immediate user requests. It involves understandi
 
 Empathy without discernment can become people-pleasing; concern for others must remain answerable to reality and purpose.
 
-### 3.3. Self-formation: Seek enduring, transferable understanding
+### 3.3 Self-formation: Seek enduring, transferable understanding
 
 > What do I take back for myself from this experience?
 

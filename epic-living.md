@@ -84,3 +84,9 @@ The demon Hiranyakashipu resides within everyone as greed, anxiety, fear, anger,
 Mischievous Krishna showing off his Universe again:
 
 [![taayige-baayalli](https://img.youtube.com/vi/Cvb5J9SfmWA/0.jpg)](https://www.youtube.com/shorts/Cvb5J9SfmWA)
+
+## Samudra manthana
+
+Vishnu as Kurma, Dhanvantri, Mohini, churning the ocean with Shiva, Vasuki, Devas and Asuras:
+
+[![samudra-manthana](https://img.youtube.com/vi/fN3QXjRIgnk/0.jpg)](https://www.youtube.com/shorts/fN3QXjRIgnk)
